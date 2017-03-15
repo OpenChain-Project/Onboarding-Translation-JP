@@ -1,7 +1,8 @@
 # OpenChain
-Japanese Translation of LF OpenChain using OmegaT
+Japanese Translation of LF OpenChain docs using OmegaT
 
 本READMEは、三浦広志氏のDjangoドキュメントの翻訳プロジェクトのものを参考にしています。
+<<本READMEは、現状、レビュー前の書きかけの状況です。>>
 
 ツールキット
 
@@ -17,11 +18,13 @@ http://omegat.org/
 作業の始め方
 
 Omega-Tのファイルメニューから、「チームプロジェクトのダウンロード」を選択し、GithubのOpenChainリポジトリURL；
+
 https://github.com/t-kunai/OpenChain
 
 と、新規ローカルディレクトリを指定します。 ローカルディレクトリは、MyDocuments/Github等を指定するといいでしょう。 ID、パスワードを聞かれますので、GithubのID/パスワードを入力します。 「暗号化しないで保存」オプションをチェックすることで、再度の入力をせずにすみます。 Omega-Tは、sshによるアクセスに十分に対応できないようなので、httpsによるURLを使いましょう。
 
 2回目以降は、ダウンロードしたフォルダを開くと、自動的にgithubから最新をPullしてきます。
+
 翻訳の実施とコミット
 
 ダウンロードすると、原文一覧が表示されます。 担当する原文を選択して、作業をおこなってください。チームプロジェクトとしては、翻訳メモリ（/omegat/project_save.tmx)が、作業結果となります。 
@@ -38,16 +41,18 @@ Omega-Tは、django-level1.tmx、 django-level2.tmx、django-omegat.tmxファイ
 
 ファイル形式
 
-原文は、MS Office形式で準備します。 MS OfficeTransifexやOpenOfficeでアクセスできますが、OpenOfficeでPowerPointＰｏｗｅｒＰｏｉｎｔデータをアクセスすると、表示が乱れます。
+原文は、MS Office形式で準備します。 MS OfficeやOpenOfficeでアクセスできますが、OpenOfficeでPowerPointデータをアクセスすると、表示が乱れます。
 
-原文のタブは、訳文に残します。頻繁にt0, t1などのタブが入っていますが、英文字のスペース調整のようなので、タブがそのままにして、スペース文字を削除するのがいいでしょう。
+原文のタブは、訳文に残します。頻繁にt0, t1などのタブが入っていますが、英文字のスペース調整のようなので、タブはそのままにして、スペース文字を削除するのがいいでしょう。
 
-用語集 タブ区切りファイルになります。 english Japanese note が書かれます。
-
-翻訳メモリ XML形式のTMX形式を利用します。
+翻訳メモリは、XML形式のTMX形式を利用します。
 
 Known Issues
 
 複数名で並行作業した場合に、用語集や翻訳メモリのコンフリクトが発生した場合の方法 について、確立したしくみがありません。
+
+ライセンス
+
+This README　material is licensed by 3-clauses BSD style.
 
 
