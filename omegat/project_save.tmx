@@ -92,6 +92,14 @@
         <seg>諸要件</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OpenChain Initiative began in 2013 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organization&lt;t0/&gt;s with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T022709Z" creationid="Takashi　Kunai" creationdate="20170315T022709Z">
+        <seg>OpenChainイニシアチブは、2013年、 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organization&lt;t0/&gt;s with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
