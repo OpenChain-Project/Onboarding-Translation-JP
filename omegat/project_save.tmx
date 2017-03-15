@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>G4: Deliver FOSS Content Documentation&lt;t0/&gt; &lt;t1/&gt;and&lt;t2/&gt; &lt;t3/&gt;Artifacts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T013255Z" creationid="Takashi　Kunai" creationdate="20170315T013255Z">
+        <seg>G4: FOSS内容物に関するドキュメントと&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;コンプライアンス証跡を外部に提供する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>G5: Understand FOSS&lt;t0/&gt; &lt;t1/&gt;Community&lt;t2/&gt; &lt;t3/&gt;Engagement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T013417Z" creationid="Takashi　Kunai" creationdate="20170315T013417Z">
+        <seg>G5: FOSS&lt;t0/&gt;&lt;t1/&gt;コミュニティへの参加を理解する&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T004515Z" creationid="Takashi　Kunai" creationdate="20170315T004515Z">
