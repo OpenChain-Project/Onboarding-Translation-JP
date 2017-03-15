@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>G6: Certify Adherence to&lt;t0/&gt; &lt;t1/&gt;OpenChain&lt;t2/&gt; &lt;t3/&gt;Requirements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T013541Z" creationid="Takashi　Kunai" creationdate="20170315T013541Z">
+        <seg>G6: &lt;t0/&gt;&lt;t1/&gt;OpenChain&lt;t2/&gt;&lt;t3/&gt;諸要件の履行状況を検証する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T004515Z" creationid="Takashi　Kunai" creationdate="20170315T004515Z">
