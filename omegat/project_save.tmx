@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>Contents</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T004454Z" creationid="Takashi　Kunai" creationdate="20170315T004454Z">
-        <seg>目次</seg>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170315T021342Z" creationid="Takashi　Kunai" creationdate="20170315T004454Z">
+        <seg>もくじ</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>G5: Understand FOSS&lt;t0/&gt; &lt;t1/&gt;Community&lt;t2/&gt; &lt;t3/&gt;Engagement</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T013417Z" creationid="Takashi　Kunai" creationdate="20170315T013417Z">
-        <seg>G5: FOSS&lt;t0/&gt;&lt;t1/&gt;コミュニティへの参加を理解する&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170315T021503Z" creationid="Takashi　Kunai" creationdate="20170315T013417Z">
+        <seg>G5: FOSS&lt;t0/&gt;&lt;t1/&gt;コミュニティへの参加について理解する&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>OpenChain Conformance Specification</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T003439Z" creationid="Takashi　Kunai" creationdate="20170315T003439Z">
-        <seg>OpenChain適合仕様書</seg>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170315T021348Z" creationid="Takashi　Kunai" creationdate="20170315T003439Z">
+        <seg>OpenChain 適合仕様書</seg>
       </tuv>
     </tu>
     <tu>
