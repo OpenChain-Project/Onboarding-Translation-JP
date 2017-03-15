@@ -22,6 +22,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>G1: Know Your&lt;t0/&gt; &lt;t1/&gt;FOSS&lt;t2/&gt; &lt;t3/&gt;Responsibilities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T012904Z" creationid="Takashi　Kunai" creationdate="20170315T012904Z">
+        <seg>G1: &lt;t0/&gt;&lt;t1/&gt;FOSS&lt;t2/&gt;&lt;t3/&gt;に関連するいろいろな責任を理解する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>G2: Assign Responsibility for&lt;t0/&gt; &lt;t1/&gt;Achieving&lt;t2/&gt; &lt;t3/&gt;Compliance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T013003Z" creationid="Takashi　Kunai" creationdate="20170315T013003Z">
+        <seg>G2: コンプライアンス履行の責任を割り当てる&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>G3: Review and Approve&lt;t0/&gt; &lt;t1/&gt;FOSS&lt;t2/&gt; &lt;t3/&gt;Content</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T013100Z" creationid="Takashi　Kunai" creationdate="20170315T013100Z">
+        <seg>G3: &lt;t0/&gt;&lt;t1/&gt;FOSS&lt;t2/&gt;&lt;t3/&gt;内容物をレビューし、承認する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T004515Z" creationid="Takashi　Kunai" creationdate="20170315T004515Z">
