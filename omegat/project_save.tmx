@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Definitions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T012614Z" creationid="Takashi　Kunai" creationdate="20170315T012614Z">
+        <seg>定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T004515Z" creationid="Takashi　Kunai" creationdate="20170315T004515Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T003439Z" creationid="Takashi　Kunai" creationdate="20170315T003439Z">
         <seg>OpenChain適合仕様書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T012652Z" creationid="Takashi　Kunai" creationdate="20170315T012652Z">
+        <seg>諸要件</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
