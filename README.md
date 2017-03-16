@@ -12,7 +12,7 @@ Japanese Translation of LF OpenChain docs using OmegaT
 
   ・　The Linux Foundation Japanに参加を申請、メーリングリスト<lfj-trans@lists.linuxfoundation.org>に登録してもらう。
   
-  ・　GitHubのユーザーIDを確保する。
+  ・　GitHubのユーザーIDを確保し、メーリングリストにて公開する。GitHub OpenChainリポジトリへの招待(Invitaion)が送付されるので受諾する。
   
   ・　Javaで記述されたコンピュータ翻訳支援ツール、OmegaTの最新版をインストールする。 http://omegat.org/
   
