@@ -7,6 +7,7 @@ Japanese Translation of LF OpenChain docs using OmegaT
 
 本プロジェクトでは、The Linux Foundation(LF)が主催するオープンソース コンプライアンス推進プロジェクトOpenChainの主要英文資料を、日本で活動するLF参加企業の貢献者が日本語訳を作成します。翻訳資料を提供することで、日本のあらゆる企業・組織におけるオープンソース コンプライアンスの浸透と普及を目指しています。
 
+
 1. プロジェクトへの参加
 
   ・　The Linux Foundation Japanに参加を申請、メーリングリスト<lfj-trans@lists.linuxfoundation.org>に登録してもらう。
@@ -19,7 +20,7 @@ Japanese Translation of LF OpenChain docs using OmegaT
   
     https://www.jtf.jp/jp/style_guide/pdf/jtf_style_guide.pdf
   
-      各企業のスタイルガイドとはちょっと違っているかもしれません。15分で一読できます。「感じ」をつかんでください。    
+      各企業のスタイルガイドとはちょっと違っているかもしれません。15分で一読できます。「感じ」をつかむこと。    
 
 2．　翻訳作業の開始
 
@@ -37,7 +38,7 @@ Japanese Translation of LF OpenChain docs using OmegaT
   
 3．　翻訳作業
 
-  ・　OmegaT起動後、ローカルフォルダーを開くと、原文一覧が表示さるるので、1つの原文を選択。
+  ・　OmegaT起動後、ローカルフォルダーを開くと、原文一覧が表示されるので、1つの原文を選択。
   
   ・　原文は、MS Office形式で準備。 
 
@@ -61,7 +62,9 @@ Japanese Translation of LF OpenChain docs using OmegaT
  
 6．ライセンス
 
-  クリエイティブ・コモンズ・ライセンス（表示-継承4.0-国際）
-
+  クリエイティブ・コモンズ・ライセンス
+  
+  Copyright © 2016 Linux Foundation. The specification is licensed under the Creative Commons Attribution License 4.0 (CC-BY-4.0). A copy of the license can be obtained here: CC-BY-4.0; 
+  https://creativecommons.org/licenses/by/4.0/legalcode
 
 
