@@ -4,16 +4,19 @@ Japanese Translation of LF OpenChain docs using OmegaT
 本READMEは、三浦広志氏のDjangoドキュメントの翻訳プロジェクトのものを参考にしています。
 <<本READMEは、現状、レビュー前の書きかけの状況です。>>
 
-ツールキット
+本プロジェクトは、The Linux Foundation（LF)が主催するオープンソース コンプライアンス推進プロジェクトOpenChainの主要英文資料を、The Linux Foundation Japan（LFJ)参加企業の貢献者が協調しながら日本語訳を作成することによって、日本のあらゆる企業・組織におけるオープンソース コンプライアンス普及を目指しています。
 
-本プロジェクトでは、Omega-T v3.5.1を使います。
-Omega-Tは、Javaで書かれたアプリケーションで、 翻訳メモリ、自動翻訳、用語集の管理・利用ができます。
+1. プロジェクトへの参加
 
-http://omegat.org/
+  ・　The Linux Foundation Japanに参加を申請、メーリングリスト<lfj-trans@lists.linuxfoundation.org>に登録してもらう。
+  ・　GitHubのユーザーIDを確保する。
+  ・　Javaで記述されたコンピュータ翻訳支援ツール、OmegaTの最新版をインストールする。 http://omegat.org/
+  ・　日本語スタイルガイドを一読する。https://www.jtf.jp/jp/style_guide/pdf/jtf_style_guide.pdf
+      各企業のスタイルガイドとはちょっと違っているかもしれません。15分で一読できます。「感じ」をつかんでください。    
 
-作業準備
+２．　翻訳作業の開始
 
-作業を開始する前に、Omega-Tでチーム設定を行います。 Omega-Tを起動し、「設定」－「チーム．．．」を選択して、あなたの名前をいれてください。 この名前は、コミットメッセージに自動的に使用されますので、今後残ることに注意してください。
+  ・　OmegaTでチーム設定を行います。 Omega-Tを起動し、「設定」－「チーム．．．」を選択して、あなたの名前をいれてください。 この名前は、コミットメッセージに自動的に使用されますので、今後残ることに注意してください。
 
 作業の始め方
 
