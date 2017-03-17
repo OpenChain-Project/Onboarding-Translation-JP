@@ -16,11 +16,6 @@ Japanese Translation of LF OpenChain docs using OmegaT
   
   ・　Javaで記述されたコンピュータ翻訳支援ツール、OmegaTの最新版をインストールする。 http://omegat.org/
   
-  ・　日本語スタイルガイドを一読する。JTF日本語標準スタイルガイド（翻訳用）；
-  
-    https://www.jtf.jp/jp/style_guide/pdf/jtf_style_guide.pdf
-  
-      各企業のスタイルガイドとはちょっと違っているかもしれません。15分で一読できます。「感じ」をつかむこと。    
 
 2．　翻訳作業の開始
 
@@ -48,21 +43,33 @@ Japanese Translation of LF OpenChain docs using OmegaT
 
   ・　「訳文のファイルを生成」を指示するとローカルディレクトリのtargetフォルダーに、原文ファイルと同形式の訳文が生成されるので、確認やレビューに使う。ただし、「保存」を行ってもGitHubリモートリポジトリの訳文は変更されない(正確に言うと、リモートは更新されず、ローカルは一時更新された後に元に戻ることがある)。
   
-4．　レビュー
+4．　スタイルガイド
+
+  ・　JTF日本語標準スタイルガイド（翻訳用）を一読する。；
+  
+    https://www.jtf.jp/jp/style_guide/pdf/jtf_style_guide.pdf
+  
+      各企業のスタイルガイドとはちょっと違っているかもしれません。15分で一読できるので、「感じ」をつかむこと。 
+      
+  ・　さらに、LF の慣例に従い、以下のように統一する。
+      カタカナの複合語は半角スペースで区切る (例: グラフィック ユーザー インターフェイス)。
+      本文の文体は「ですます調(敬体)」とする。
+  
+5．　レビュー
 
   ・　各レビュー者は、それぞれ訳文ファイルを生成し、MS　Officeなどにて修正履歴・修正表示・コメントを入れる。修正付きの訳文は、メーリングリストに流すか、GitHubにアップロードするか、もう少し検討。
   
   ・レビュー者が修正をコミットすることもあり得るが、修正量が少ないときに限定されると考えられる。
   
-5．既知の問題
+6．既知の問題
 
   ・　複数の翻訳者が並行して同一の文節に作業した場合に、OmegaTがそれぞれを表示するようだが、調整はメーリングリスト。
   
   ・　原文・訳文ファイルは、MS OfficeやOpenOfficeでアクセスできるが、OpenOfficeでPowerPointデータをアクセスすると、表示が乱れる。
  
-6．ライセンス
+7．ライセンス
 
-  クリエイティブ・コモンズ・ライセンス
+  クリエイティブ コモンズ ライセンス
   
   Copyright © 2016 Linux Foundation. The specification is licensed under the Creative Commons Attribution License 4.0 (CC-BY-4.0). A copy of the license can be obtained here: CC-BY-4.0; 
   https://creativecommons.org/licenses/by/4.0/legalcode
