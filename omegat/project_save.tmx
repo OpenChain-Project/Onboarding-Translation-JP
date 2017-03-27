@@ -108,6 +108,14 @@
         <seg>OpenChainイニシアチブは、2013年、 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organization&lt;t0/&gt;s with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mere meeting of a subset of these requirements would not be considered sufficient to warrant a program be OpenChain certified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170327T044532Z" creationid="Takashi　Kunai" creationdate="20170327T044532Z">
+        <seg>単にサブセットに適合したのでは、そのコンプライアンス　プログラムはOpenChain準拠とはいえません。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
