@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OpenChain Specification</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170604T082949Z" creationid="Takashi　Kunai" creationdate="20170604T082949Z">
+        <seg>OpenChain 仕様書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Requirements</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T012652Z" creationid="Takashi　Kunai" creationdate="20170315T012652Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170604T080602Z" creationid="Takashi　Kunai" creationdate="20170604T080602Z">
         <seg>同プロジェクトは、オープンソースのライセンス コンプライアンスをシンプルにし、また、首尾一貫したものにすることにより、オープンソースに対する信頼を築きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result is that open source license compliance becomes more predictable, understandable and efficient for participants of the software supply&lt;t18/&gt; &lt;t19/&gt;chain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170604T082935Z" creationid="Takashi　Kunai" creationdate="20170604T082935Z">
+        <seg>その結果として、ソフトウェア サプライチェーンにの中にある参加者にとって、オープンソース ライセンス コンプライアンスがより予測可能で、理解しやすく、効率的になります。&lt;t18/&gt; &lt;t19/&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
