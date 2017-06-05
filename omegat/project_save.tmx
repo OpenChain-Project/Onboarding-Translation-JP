@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The OpenChain Curriculum helps organizations meet certain aspects of the OpenChain Specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T013400Z" creationid="Takashi　Kunai" creationdate="20170605T013400Z">
+        <seg>The OpenChain カリキュラムは、OpenChain仕様書のhelps organizations meet certain aspects of the OpenChain Specification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OpenChain Curriculum provides the educational foundation for open source processes and solutions, whilst meeting a key&lt;t0/&gt; &lt;t1/&gt;requirement&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;OpenChain&lt;t8/&gt; &lt;t9/&gt;Specification.&lt;t10/&gt; &lt;t11/&gt;OpenChain&lt;t12/&gt; &lt;t13/&gt;Conformance&lt;t14/&gt; &lt;t15/&gt;allows&lt;t16/&gt; &lt;t17/&gt;organizations to display their adherence to these requirements.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T002451Z" creationid="Takashi　Kunai" creationdate="20170604T082321Z">
