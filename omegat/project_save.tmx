@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supporters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T051446Z" creationid="Takashi　Kunai" creationdate="20170605T051446Z">
+        <seg>支援者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Online Self-Certification service is available here in the English language: &lt;t0/&gt;https://www.openchainproject.org/conformance</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T012852Z" creationid="Takashi　Kunai" creationdate="20170605T012852Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T012705Z" creationid="Takashi　Kunai" creationdate="20170605T012546Z">
         <seg>どのような規模の組織であっても、この&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;自己診断&lt;t8/&gt; をご利用になることをお勧めします。&lt;t9/&gt;&lt;t10/&gt; &lt;t11/&gt;それは、&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;OpenChain仕様への適合性をチェックし、確認するうえで、もっとも速く&lt;t16/&gt; &lt;t17/&gt;もっとも容易で、&lt;t18/&gt; &lt;t19/&gt;かつ、&lt;t20/&gt; &lt;t21/&gt;もっとも&lt;t22/&gt; &lt;t23/&gt;効率的な&lt;t24/&gt; &lt;t25/&gt;手法です。&lt;t26/&gt; &lt;t27/&gt;&lt;t28/&gt; &lt;t29/&gt;&lt;t30/&gt; &lt;t31/&gt;&lt;t32/&gt; &lt;t33/&gt;&lt;t34/&gt; &lt;t35/&gt;&lt;t36/&gt; &lt;t37/&gt;&lt;t38/&gt; &lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can learn more about each aspect of the OpenChain Project here: &lt;t0/&gt;https://www.openchainproject.org/faq</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T051434Z" creationid="Takashi　Kunai" creationdate="20170605T051434Z">
+        <seg>OpenChain プロジェクトのおのおのの側面についての詳細は、以下のWebサイトでご覧になることができます； &lt;t0/&gt;https://www.openchainproject.org/faq</seg>
       </tuv>
     </tu>
     <tu>
