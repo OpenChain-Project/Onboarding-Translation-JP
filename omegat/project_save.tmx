@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More specifically, it provides a generic, refined and clear example of an open source compliance training program that can either be used directly or incorporated into existing training programs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T021937Z" creationid="Takashi　Kunai" creationdate="20170605T021937Z">
+        <seg>具体的に言うと、本カリキュラムはオープンソース コンプライアンスのトレーニング プログラムに対する汎用的で、よく調整された、また、明快な事例を提供し、それを直接利用することもできれば、既存のトレーニング プログラムの中に組み込むこともできます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On-Boarding</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170604T075740Z" creationid="Takashi　Kunai" creationdate="20170604T075740Z">
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T021402Z" creationid="Takashi　Kunai" creationdate="20170605T013400Z">
         <seg>The OpenChain カリキュラムは、組織がOpenChain 仕様書の諸側面に沿ったものになるよう手助けします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OpenChain Curriculum is available with very few restrictions to ensure organizations can use it in as many ways as possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T022204Z" creationid="Takashi　Kunai" creationdate="20170605T022204Z">
+        <seg>OpenChain カリキュラムは、組織ができるだけ多様な用途に利用できるよう、非常に少ない制約のもとで利用できるようになっています。</seg>
       </tuv>
     </tu>
     <tu>
