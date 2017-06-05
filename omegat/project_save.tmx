@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OpenChain also has a wide community of volunteers helping to make open source compliance easier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T052517Z" creationid="Takashi　Kunai" creationdate="20170605T052517Z">
+        <seg>OpenChain には、また、オープンソース コンプライアンスが容易に遂行できるようになることめざし、ボランティアの幅広いコミュニティが参加しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OpenChain has nine Platinum Members that support its development and adoption: Adobe, ARM, Cisco, GitHub, Harman, HPE, Qualcomm, Siemens and Wind River.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T051901Z" creationid="Takashi　Kunai" creationdate="20170605T051901Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T051220Z" creationid="Takashi　Kunai" creationdate="20170605T032730Z">
         <seg>オンライン自己診断は、オープンソース テクノロジーへの参画をできる限りシンプルにします。&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;&lt;t4/&gt; &lt;t5/&gt;カリキュラム&lt;t6/&gt; &lt;t7/&gt;は、&lt;t8/&gt; &lt;t9/&gt;OpenChain プロジェクトに直結した活動の内側と外側で、トレーニング、および、ベストプラクティスの機会を数多く提供します。&lt;t10/&gt; &lt;t11/&gt;&lt;t12/&gt; &lt;t13/&gt;&lt;t14/&gt; &lt;t15/&gt;&lt;t16/&gt; &lt;t17/&gt;&lt;t18/&gt; &lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt; &lt;t23/&gt;&lt;t24/&gt; &lt;t25/&gt;&lt;t26/&gt; &lt;t27/&gt;&lt;t28/&gt; &lt;t29/&gt;&lt;t30/&gt; &lt;t31/&gt;&lt;t32/&gt; &lt;t33/&gt;&lt;t34/&gt; &lt;t35/&gt;&lt;t36/&gt; &lt;t37/&gt;&lt;t38/&gt; &lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document is made available under the Creative Commons CC0 1.0 Universal license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T052618Z" creationid="Takashi　Kunai" creationdate="20170605T052618Z">
+        <seg>本資料は、Creative Commons CC0 1.0 Universal ライセンスに基づいて提供しています。</seg>
       </tuv>
     </tu>
     <tu>
