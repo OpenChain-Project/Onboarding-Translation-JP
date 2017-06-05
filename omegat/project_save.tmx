@@ -176,8 +176,8 @@
       <tuv lang="EN-US">
         <seg>The OpenChain Curriculum is available with very few restrictions to ensure organizations can use it in as many ways as possible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T022204Z" creationid="Takashi　Kunai" creationdate="20170605T022204Z">
-        <seg>OpenChain カリキュラムは、組織ができるだけ多様な用途に利用できるよう、非常に少ない制約のもとで利用できるようになっています。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T022226Z" creationid="Takashi　Kunai" creationdate="20170605T022204Z">
+        <seg>OpenChain カリキュラムは、組織ができるだけ多様な用途に利用できるよう、非常に少ない制約のもとで利用できるようにしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +266,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T005019Z" creationid="Takashi　Kunai" creationdate="20170605T005019Z">
         <seg>それは、当該組織がいずれかのバージョンの OpenChain 仕様書の要件に適合することを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To accomplish this it is licensed as CC-0, effectively public domain, so remixing or sharing it freely for any purpose is possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T022246Z" creationid="Takashi　Kunai" creationdate="20170605T022246Z">
+        <seg>ｓｏｒｅTo accomplish this it is licensed as CC-0, effectively public domain, so remixing or sharing it freely for any purpose is possible.</seg>
       </tuv>
     </tu>
     <tu>
