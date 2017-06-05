@@ -196,6 +196,14 @@
         <seg>この仕様書は、いろいろな規模の組織がオープンソース コンプライアンスの課題を効率よく対処することを確かなものとする一連のプロセスを明らかにします。</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that their organization meets the requirements of a certain version of the OpenChain Specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T005019Z" creationid="Takashi　Kunai" creationdate="20170605T005019Z">
+        <seg>それは、当該組織がいずれかのバージョンの OpenChain 仕様書の要件に適合することを意味します。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
