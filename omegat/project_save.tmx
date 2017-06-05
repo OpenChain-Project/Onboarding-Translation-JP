@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>OpenChain Conformance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T010544Z" creationid="Takashi　Kunai" creationdate="20170605T010544Z">
-        <seg>OpenChain への適合</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T011010Z" creationid="Takashi　Kunai" creationdate="20170605T010544Z">
+        <seg>OpenChain 適合</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +114,14 @@
       </tuv>
       <tuv lang="JA" changeid="MiekoSato" changedate="20170315T021348Z" creationid="Takashi　Kunai" creationdate="20170315T003439Z">
         <seg>OpenChain 適合仕様書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain Conformance can be done manually or via a free Online Self-Certification questionnaire provided by the OpenChain Project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T010940Z" creationid="Takashi　Kunai" creationdate="20170605T010940Z">
+        <seg>penChain Conformance can be done manually or via a free Online Self-Certification questionnaire provided by the OpenChain Project.</seg>
       </tuv>
     </tu>
     <tu>
