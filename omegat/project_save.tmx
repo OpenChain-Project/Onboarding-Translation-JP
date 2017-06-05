@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>The OpenChain Project identifies key recommended processes for effective open source management.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170604T080153Z" creationid="Takashi　Kunai" creationdate="20170604T080153Z">
-        <seg>OpenChain プロジェクトは、効果的なオープンソースマネージメントための鍵となるプロセスを提示します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T002039Z" creationid="Takashi　Kunai" creationdate="20170604T080153Z">
+        <seg>OpenChain プロジェクトは、効果的なオープンソースマネージメントの鍵となるプロセスを提示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +146,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170604T080943Z" creationid="Takashi　Kunai" creationdate="20170604T080943Z">
         <seg>OpenChain 仕様書は、あらゆるコンプライアンスプログラムが満たす必要のある一連の基本的な要件を定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The core of the OpenChain Project is the Specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170604T083030Z" creationid="Takashi　Kunai" creationdate="20170604T083030Z">
+        <seg>OpenChain プロジェクトの中核は、仕様書です。</seg>
       </tuv>
     </tu>
     <tu>
