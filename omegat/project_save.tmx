@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most important point is that OpenChain builds trust by providing a clear way to show adoption of industry-standard processes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T024847Z" creationid="Takashi　Kunai" creationdate="20170605T024847Z">
+        <seg>一番重要なポイントは、OpenChain がbuilds trust by providing a clear way to show adoption of industry-standard processes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The project builds trust in open source by making open source license compliance simpler and more consistent.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170604T080602Z" creationid="Takashi　Kunai" creationdate="20170604T080602Z">
