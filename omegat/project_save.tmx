@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OpenChain Conformance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T010544Z" creationid="Takashi　Kunai" creationdate="20170605T010544Z">
+        <seg>OpenChain への適合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OpenChain Conformance Specification</seg>
       </tuv>
       <tuv lang="JA" changeid="MiekoSato" changedate="20170315T021348Z" creationid="Takashi　Kunai" creationdate="20170315T003439Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T005019Z" creationid="Takashi　Kunai" creationdate="20170605T005019Z">
         <seg>それは、当該組織がいずれかのバージョンの OpenChain 仕様書の要件に適合することを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can learn more about the OpenChain Specification here: &lt;t0/&gt;https://www.openchainproject.org/spec</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T010527Z" creationid="Takashi　Kunai" creationdate="20170605T010527Z">
+        <seg>OpenChain 仕様書は、次のサイトでご覧になれます（日本語版もあります）。 &lt;t0/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
