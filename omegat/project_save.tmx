@@ -296,8 +296,8 @@
       <tuv lang="EN-US">
         <seg>The result is that open source license compliance becomes more predictable, understandable and efficient for participants of the software supply&lt;t18/&gt; &lt;t19/&gt;chain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T002817Z" creationid="Takashi　Kunai" creationdate="20170604T082935Z">
-        <seg>その結果、ソフトウェア サプライチェーンの参加者には、オープンソース ライセンス コンプライアンスがより予測可能で、理解しやすく、効率的になります。&lt;t18/&gt; &lt;t19/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T064728Z" creationid="Takashi　Kunai" creationdate="20170604T082935Z">
+        <seg>その結果として、ソフトウェア サプライチェーンの参加者にはオープンソース ライセンス コンプライアンスがより予測可能で、理解しやすく、効率的なものになります。&lt;t18/&gt; &lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -320,8 +320,8 @@
       <tuv lang="EN-US">
         <seg>This identifies identifies a series of processes that help ensure organizations of any size can address open source compliance issues effectively.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T004507Z" creationid="Takashi　Kunai" creationdate="20170605T004507Z">
-        <seg>この仕様書は、いろいろな規模の組織がオープンソース コンプライアンスの課題を効率よく対処することを確かなものとする一連のプロセスを明らかにします。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T064842Z" creationid="Takashi　Kunai" creationdate="20170605T004507Z">
+        <seg>この仕様書は、いろいろな規模の組織が、オープンソース コンプライアンスの課題を効率よく対処することを確かなものとするような一連のプロセスを明らかにします。</seg>
       </tuv>
     </tu>
     <tu>
