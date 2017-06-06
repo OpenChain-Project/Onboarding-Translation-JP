@@ -39,8 +39,9 @@ OpenChain Japanese Translation using OmegaT
 ・「glossary」：用語集です。同じくOmega-Tでの翻訳作業において使用する用語が登録される。基本的にOmega-Tが使うが、通常のテキストエディタなどでも閲覧できる。以下のように用語が登録されている。
 
 用語1 <tab> 意味1 <tab> コメント1
+
 用語2 <tab> 意味2 <tab> コメント2
-：
+
 
 ・「source」フォルダ：翻訳対象となる原文が格納さる。
 
@@ -94,6 +95,7 @@ https://www.jtf.jp/jp/style_guide/pdf/jtf_style_guide.pdf
 
 ・　OpenChainサイトの翻訳（Translation）ページにて公開。
 	https://www.openchainproject.org/translations
+	
 ・　現状では、RELEASEフォルダのpdfへのリンク。将来的には、言語選択のコンボボックスとなることを期待。
 
 9.　既知の問題
