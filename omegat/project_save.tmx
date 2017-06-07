@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new conformity assessment standard that specifies a&lt;t0/&gt; &lt;t1/&gt;minimum standard for&lt;t2/&gt; &lt;t3/&gt;providing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T084803Z" creationid="Takashi　Kunai" creationdate="20170607T084803Z">
+        <seg>最小限を定義した適合性評価標準であり、以下を提供；&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Common Process for Open Source Software Governance</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T083911Z" creationid="Takashi　Kunai" creationdate="20170607T083911Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T040854Z" creationid="Takashi　Kunai" creationdate="20170607T040854Z">
         <seg>おのおのの企業が、ソフトウェア頒布に用いられたFOSSコンポーネントを特定し、それらを追跡し、そのライセンス条件を履行する必要&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Educated&lt;t0/&gt; &lt;t1/&gt;personnel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T084930Z" creationid="Takashi　Kunai" creationdate="20170607T084930Z">
+        <seg>トレーニングを受講した要員&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +298,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T041517Z" creationid="Takashi　Kunai" creationdate="20170607T041517Z">
         <seg>受領した企業は、上流ベンダーが行ったコンプライアンス関連の決定やプロセスについて何も分からない&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reliable internal&lt;t0/&gt; &lt;t1/&gt;processes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T084845Z" creationid="Takashi　Kunai" creationdate="20170607T084845Z">
+        <seg>信頼性のある社内プロセス&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
