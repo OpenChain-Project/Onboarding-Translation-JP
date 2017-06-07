@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Identifies a minimum level of processes that organizations of any&lt;t0/&gt; &lt;t1/&gt;size can use address open source compliance issues&lt;t2/&gt; &lt;t3/&gt;effectively</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T090225Z" creationid="Takashi　Kunai" creationdate="20170607T090225Z">
+        <seg>どんな規模の組織でも利用できる最小限んのプロセスを特定し、効率的にオープンソース コンプライアンスの課題に対応&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T004515Z" creationid="Takashi　Kunai" creationdate="20170315T004515Z">
