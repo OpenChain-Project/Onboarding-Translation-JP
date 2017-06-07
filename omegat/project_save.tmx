@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compliance has less impact on the software development&lt;t0/&gt; &lt;t1/&gt;process</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T083736Z" creationid="Takashi　Kunai" creationdate="20170607T083736Z">
+        <seg>コンプライアンスが、ソフトウェア開発プロセスに大きな影響を与えることを防ぐ&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="JA" changeid="MiekoSato" changedate="20170315T021342Z" creationid="Takashi　Kunai" creationdate="20170315T004454Z">
