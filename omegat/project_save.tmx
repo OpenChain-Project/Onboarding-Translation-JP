@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When code moves downstream, receiving company has to perform the&lt;t0/&gt; &lt;t1/&gt;same work</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T041202Z" creationid="Takashi　Kunai" creationdate="20170607T041202Z">
+        <seg>ソフトウェア コードが下流に移動すると、それらを受領した企業は、同じ作業をしなければならない&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can learn more about each aspect of the OpenChain Project here: &lt;t0/&gt;https://www.openchainproject.org/faq</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T072900Z" creationid="Takashi　Kunai" creationdate="20170605T051434Z">
