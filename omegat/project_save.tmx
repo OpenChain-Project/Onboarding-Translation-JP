@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each company needs to identify, track and comply with FOSS&lt;t0/&gt; &lt;t1/&gt;components used in software&lt;t2/&gt; &lt;t3/&gt;distributions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T040854Z" creationid="Takashi　Kunai" creationdate="20170607T040854Z">
+        <seg>おのおのの企業が、ソフトウェア頒布に用いられたFOSSコンポーネントを特定し、それらを追跡し、そのライセンス条件を履行する必要&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frequently Asked Questions</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T044906Z" creationid="Takashi　Kunai" creationdate="20170605T023322Z">
