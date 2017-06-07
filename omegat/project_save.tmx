@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Developed by a broad base of corporate and community&lt;t0/&gt; &lt;t1/&gt;participants</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T090340Z" creationid="Takashi　Kunai" creationdate="20170607T090340Z">
+        <seg>幅広い企業・コミュニティの参加者によって作られた&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Documentation of&lt;t0/&gt; &lt;t1/&gt;policies</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T085110Z" creationid="Takashi　Kunai" creationdate="20170607T085110Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T012906Z" creationid="Takashi　Kunai" creationdate="20170605T010527Z">
         <seg>OpenChain 仕様書は、次のサイトでご覧になれます（日本語版もあります）； &lt;t0/&gt;https://www.openchainproject.org/spec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can learn more about the OpenChain Specification&lt;t0/&gt; &lt;t1/&gt;here: &lt;t2/&gt;https://www.openchainproject.org/spec</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T090515Z" creationid="Takashi　Kunai" creationdate="20170607T090515Z">
+        <seg>OpenChain 定義書の詳細については、次のサイトを参照のこと：&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
