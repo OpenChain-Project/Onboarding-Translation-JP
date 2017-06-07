@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OpenChain provides a baseline process with freedom to optimize&lt;t0/&gt; &lt;t1/&gt;and customize</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T043039Z" creationid="Takashi　Kunai" creationdate="20170607T043039Z">
+        <seg>OpenChain は、オプティマイズとカストマイズの自由を伴った基本プロセスを提供&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Receiving company has no visibility into compliance decisions or&lt;t0/&gt; &lt;t1/&gt;processes from upstream&lt;t2/&gt; &lt;t3/&gt;vendors</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T041517Z" creationid="Takashi　Kunai" creationdate="20170607T041517Z">
