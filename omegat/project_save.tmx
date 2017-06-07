@@ -38,10 +38,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compliance with open source license&lt;t0/&gt; &lt;t1/&gt;obligations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T085513Z" creationid="Takashi　Kunai" creationdate="20170607T085513Z">
+        <seg>オープンソース ランセンスの義務に対するコンプライアンス&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="JA" changeid="MiekoSato" changedate="20170315T021342Z" creationid="Takashi　Kunai" creationdate="20170315T004454Z">
         <seg>もくじ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Core of the OpenChain&lt;t0/&gt; &lt;t1/&gt;Project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T085612Z" creationid="Takashi　Kunai" creationdate="20170607T085612Z">
+        <seg>OpenChain&lt;t0/&gt; &lt;t1/&gt;プロジェクトの中核</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +226,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T034458Z" creationid="Takashi　Kunai" creationdate="20170607T034458Z">
         <seg>2017年5月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monitoring of internal&lt;t0/&gt; &lt;t1/&gt;conformance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T085420Z" creationid="Takashi　Kunai" creationdate="20170607T085420Z">
+        <seg>社内の適合性の監視&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
