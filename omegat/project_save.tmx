@@ -432,8 +432,8 @@
       <tuv lang="EN-US">
         <seg>Review the OpenChain specification at&lt;t0/&gt; &lt;t1/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T064032Z" creationid="Takashi　Kunai" creationdate="20170608T064032Z">
-        <seg>OpenChain 仕様書は、次のサイトでご覧になれます；t&lt;t0/&gt;&lt;t1/&gt;https://www.openchainproject.org/spec</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T065139Z" creationid="Takashi　Kunai" creationdate="20170608T064032Z">
+        <seg>OpenChain 仕様書をみてみる；t&lt;t0/&gt;&lt;t1/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
     </tu>
     <tu>
