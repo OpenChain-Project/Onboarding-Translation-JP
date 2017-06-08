@@ -464,8 +464,8 @@
       <tuv lang="EN-US">
         <seg>Receiving company has no visibility into compliance decisions or&lt;t0/&gt; &lt;t1/&gt;processes from upstream&lt;t2/&gt; &lt;t3/&gt;vendors</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T041517Z" creationid="Takashi　Kunai" creationdate="20170607T041517Z">
-        <seg>受領した企業は、上流ベンダーが行ったコンプライアンス関連の決定やプロセスについて何も分からない&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T073144Z" creationid="Takashi　Kunai" creationdate="20170607T041517Z">
+        <seg>受領企業は、上流ベンダーのコンプライアンス関連の決定やプロセスについて何も分からない&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -736,8 +736,8 @@
       <tuv lang="EN-US">
         <seg>When code moves downstream, receiving company has to perform the&lt;t0/&gt; &lt;t1/&gt;same work</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T041202Z" creationid="Takashi　Kunai" creationdate="20170607T041202Z">
-        <seg>ソフトウェア コードが下流に移動すると、それらを受領した企業は、同じ作業をしなければならない&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T073009Z" creationid="Takashi　Kunai" creationdate="20170607T041202Z">
+        <seg>ソフトウェア コードが下流に移動、それらを受領した企業は、同じ作業を繰り返す&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
