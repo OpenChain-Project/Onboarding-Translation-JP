@@ -256,8 +256,8 @@
       <tuv lang="EN-US">
         <seg>Join the Specification, Conformance process and Curriculum&lt;t0/&gt; &lt;t1/&gt;work teams</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T065516Z" creationid="Takashi　Kunai" creationdate="20170608T065516Z">
-        <seg>「仕様書」、「適合性プロセス」、あるいは、「カリキュラム」作業チームに参加&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T065803Z" creationid="Takashi　Kunai" creationdate="20170608T065516Z">
+        <seg>「仕様書」、「適合性プロセス」、あるいは、「カリキュラム」の作業チームに参加&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +402,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T015510Z" creationid="Takashi　Kunai" creationdate="20170608T015510Z">
         <seg>組織は、OpenChain 仕様書の特定バージョンの要件への適合性を検証&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Participate in bi-monthly work team&lt;t0/&gt; &lt;t1/&gt;calls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T065817Z" creationid="Takashi　Kunai" creationdate="20170608T065613Z">
+        <seg>隔月開催される作業チームの電話会議に参加&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
