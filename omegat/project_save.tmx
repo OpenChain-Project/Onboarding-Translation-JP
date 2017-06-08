@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>Compliance has less impact on the software development&lt;t0/&gt; &lt;t1/&gt;process</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T083736Z" creationid="Takashi　Kunai" creationdate="20170607T083736Z">
-        <seg>コンプライアンスが、ソフトウェア開発プロセスに大きな影響を与えることを防ぐ&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T073909Z" creationid="Takashi　Kunai" creationdate="20170607T083736Z">
+        <seg>コンプライアンスが、ソフトウェア開発プロセスに影響を与えることを防ぐ&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,8 +472,8 @@
       <tuv lang="EN-US">
         <seg>Reliable internal processes&lt;t0/&gt; &lt;t1/&gt;include</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T085038Z" creationid="Takashi　Kunai" creationdate="20170607T085038Z">
-        <seg>信頼性のある社内プロセスには以下が含まれる；&lt;t0/&gt;&lt;t1/&gt;include</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074057Z" creationid="Takashi　Kunai" creationdate="20170607T085038Z">
+        <seg>信頼性のある社内プロセスには以下が含まれる；&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
