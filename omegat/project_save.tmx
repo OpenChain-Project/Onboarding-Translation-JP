@@ -192,8 +192,8 @@
       <tuv lang="EN-US">
         <seg>Friction Points Resolved</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T041941Z" creationid="Takashi　Kunai" creationdate="20170607T041941Z">
-        <seg>摩擦点が解決する</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T073345Z" creationid="Takashi　Kunai" creationdate="20170607T041941Z">
+        <seg>摩擦点を解決</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,8 +424,8 @@
       <tuv lang="EN-US">
         <seg>OpenChain provides a baseline process with freedom to optimize&lt;t0/&gt; &lt;t1/&gt;and customize</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T043039Z" creationid="Takashi　Kunai" creationdate="20170607T043039Z">
-        <seg>OpenChain は、オプティマイズとカストマイズの自由を伴った基本プロセスを提供&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T073501Z" creationid="Takashi　Kunai" creationdate="20170607T043039Z">
+        <seg>OpenChain は、最適化と個別化の自由を伴った基本プロセスを提供&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
