@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the curriculum slides as an easy starting&lt;t0/&gt; &lt;t1/&gt;point for training -&lt;t2/&gt; &lt;t3/&gt;https://www.openchainproject.org/curriculum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T064749Z" creationid="Takashi　Kunai" creationdate="20170608T064749Z">
+        <seg>トレーニングのとっかかりとして、カリキュラムの教材スライドを利用；&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;https://www.openchainproject.org/curriculum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We recommend that organizations of all sizes&lt;t0/&gt; &lt;t1/&gt;use&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;Online&lt;t6/&gt; &lt;t7/&gt;Self-Certification.&lt;t8/&gt; &lt;t9/&gt;It&lt;t10/&gt; &lt;t11/&gt;is&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;quickest,&lt;t16/&gt; &lt;t17/&gt;easiest&lt;t18/&gt; &lt;t19/&gt;and&lt;t20/&gt; &lt;t21/&gt;most&lt;t22/&gt; &lt;t23/&gt;effective&lt;t24/&gt; &lt;t25/&gt;way&lt;t26/&gt; &lt;t27/&gt;to&lt;t28/&gt; &lt;t29/&gt;check and&lt;t30/&gt; &lt;t31/&gt;confirm&lt;t32/&gt; &lt;t33/&gt;adherence&lt;t34/&gt; &lt;t35/&gt;to&lt;t36/&gt; &lt;t37/&gt;the&lt;t38/&gt; &lt;t39/&gt;OpenChain&lt;t40/&gt; &lt;t41/&gt;Specification.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T070150Z" creationid="Takashi　Kunai" creationdate="20170605T012546Z">
