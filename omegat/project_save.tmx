@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Corporate Sponsorship and Board&lt;t0/&gt; &lt;t1/&gt;opportunities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T070229Z" creationid="Takashi　Kunai" creationdate="20170608T070229Z">
+        <seg>企業スポンサーとなる、また、運営委員会に参加&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Curriculum</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170323T234951Z" creationid="Takashi　Kunai" creationdate="20170323T234951Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T084930Z" creationid="Takashi　Kunai" creationdate="20170607T084930Z">
         <seg>トレーニングを受講した要員&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For opportunities, see&lt;t0/&gt; &lt;t1/&gt;https://www.openchainproject.org/community</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T070343Z" creationid="Takashi　Kunai" creationdate="20170608T070343Z">
+        <seg>OpenChain コミュニティについては、次のサイトをご覧下さい；&lt;t0/&gt;&lt;t1/&gt;https://www.openchainproject.org/community</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +570,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170604T080943Z" creationid="Takashi　Kunai" creationdate="20170604T080943Z">
         <seg>OpenChain 仕様書は、あらゆるコンプライアンスプログラムが満たす必要のある一連の基本的な要件を定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Software Supply Chain Today</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T070416Z" creationid="Takashi　Kunai" creationdate="20170608T070416Z">
+        <seg>今日のソフトウェア サプライチェーン</seg>
       </tuv>
     </tu>
     <tu>
