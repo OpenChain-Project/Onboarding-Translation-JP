@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Online Self-Certification service is available here in the&lt;t0/&gt; &lt;t1/&gt;English language: &lt;t2/&gt;https://www.openchainproject.org/conformance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T020752Z" creationid="Takashi　Kunai" creationdate="20170608T020752Z">
+        <seg>オンライン自己診断サービスは、次のサイトで利用可能（現在のところ英語のみ）：&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/conformance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OpenChain Curriculum helps organizations meet certain aspects of the OpenChain Specification.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T070349Z" creationid="Takashi　Kunai" creationdate="20170605T013400Z">
