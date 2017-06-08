@@ -264,8 +264,8 @@
       <tuv lang="EN-US">
         <seg>Identifies a minimum level of processes that organizations of any&lt;t0/&gt; &lt;t1/&gt;size can use address open source compliance issues&lt;t2/&gt; &lt;t3/&gt;effectively</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T090225Z" creationid="Takashi　Kunai" creationdate="20170607T090225Z">
-        <seg>どんな規模の組織でも利用できる最小限んのプロセスを特定し、効率的にオープンソース コンプライアンスの課題に対応&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074502Z" creationid="Takashi　Kunai" creationdate="20170607T090225Z">
+        <seg>どんな規模の組織でも利用できる最小限のプロセスを特定し、効率的にオープンソース コンプライアンスの課題に対応&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +376,8 @@
       <tuv lang="EN-US">
         <seg>OpenChain Conformance can be done manually or via a free&lt;t0/&gt; &lt;t1/&gt;Online Self-Certification questionnaire provided by the OpenChain&lt;t2/&gt; &lt;t3/&gt;Project</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T015952Z" creationid="Takashi　Kunai" creationdate="20170608T015952Z">
-        <seg>OpenChain 適合性の検証は、手作業、あるいは、OpenChain プロジェクトが無償で提供するオンライン自己診断質問集に&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074546Z" creationid="Takashi　Kunai" creationdate="20170608T015952Z">
+        <seg>OpenChain 適合性の検証は、手作業、あるいは、OpenChain プロジェクトが無償で提供するオンライン自己診断質問集による&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
