@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>A new conformity assessment standard that specifies a&lt;t0/&gt; &lt;t1/&gt;minimum standard for&lt;t2/&gt; &lt;t3/&gt;providing</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T084803Z" creationid="Takashi　Kunai" creationdate="20170607T084803Z">
-        <seg>最小限を定義した適合性評価標準であり、以下を提供；&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074146Z" creationid="Takashi　Kunai" creationdate="20170607T084803Z">
+        <seg>最小限を定義した適合性評価標準であり、以下をもたらす；&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>Documentation of&lt;t0/&gt; &lt;t1/&gt;policies</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T085110Z" creationid="Takashi　Kunai" creationdate="20170607T085110Z">
-        <seg>ポリシーの文書化f&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074252Z" creationid="Takashi　Kunai" creationdate="20170607T085110Z">
+        <seg>ポリシーの文書化&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>Educated&lt;t0/&gt; &lt;t1/&gt;personnel</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T084930Z" creationid="Takashi　Kunai" creationdate="20170607T084930Z">
-        <seg>トレーニングを受講した要員&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074223Z" creationid="Takashi　Kunai" creationdate="20170607T084930Z">
+        <seg>コンプライアンスを理解した要員&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>Monitoring of internal&lt;t0/&gt; &lt;t1/&gt;conformance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T085420Z" creationid="Takashi　Kunai" creationdate="20170607T085420Z">
-        <seg>社内の適合性の監視&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074307Z" creationid="Takashi　Kunai" creationdate="20170607T085420Z">
+        <seg>社内の適合性監視&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
