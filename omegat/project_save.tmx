@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Licensed as CC-0, so remixing or sharing it freely for any purpose is&lt;t0/&gt; &lt;t1/&gt;possible</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T022148Z" creationid="Takashi　Kunai" creationdate="20170608T022148Z">
+        <seg>CC-0 ライセンスで提供、どのような目的にでも自由に作り直したり、共有したりすることが可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>May 2017</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T034458Z" creationid="Takashi　Kunai" creationdate="20170607T034458Z">
@@ -370,6 +378,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T015510Z" creationid="Takashi　Kunai" creationdate="20170608T015510Z">
         <seg>組織は、OpenChain 仕様書の特定バージョンの要件への適合性を検証&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides a generic, refined and clear example of an open source compliance training program that can either be used directly or incorporated into&lt;t0/&gt; &lt;t1/&gt;existing training&lt;t2/&gt; &lt;t3/&gt;programs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T022012Z" creationid="Takashi　Kunai" creationdate="20170608T022012Z">
+        <seg>オープンソース コンプライアンスのトレーニング プログラムとして汎用的で、よく調整された、また、明快な事例を提供、それを直接利用、あるいは、既存のトレーニング プログラムの中に組み込むことも可能</seg>
       </tuv>
     </tu>
     <tu>
