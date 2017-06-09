@@ -440,8 +440,8 @@
       <tuv lang="EN-US">
         <seg>Organizations certify that they meet the requirements of a&lt;t0/&gt; &lt;t1/&gt;certain version of the OpenChain&lt;t2/&gt; &lt;t3/&gt;Specification</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170609T072051Z" creationid="Takashi　Kunai" creationdate="20170608T015510Z">
-        <seg>組織は、OpenChain 仕様書の特定バージョンの要件への適合性を確認&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170609T072807Z" creationid="Takashi　Kunai" creationdate="20170608T015510Z">
+        <seg>組織は、OpenChain 仕様書の特定バージョンの要件への適合性を検証&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
