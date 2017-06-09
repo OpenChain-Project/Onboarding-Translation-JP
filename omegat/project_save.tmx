@@ -536,8 +536,8 @@
       <tuv lang="EN-US">
         <seg>The OpenChain Curriculum helps organizations meet certain&lt;t0/&gt; &lt;t1/&gt;aspects of the OpenChain&lt;t2/&gt; &lt;t3/&gt;Specification</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T021712Z" creationid="Takashi　Kunai" creationdate="20170608T021712Z">
-        <seg>OpenChain カリキュラムは、OpenChain 仕様書の特定の側面に組織が適合することを支援&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170609T072533Z" creationid="Takashi　Kunai" creationdate="20170608T021712Z">
+        <seg>OpenChain カリキュラムは、組織がOpenChain 仕様書を適用することを支援&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -720,8 +720,8 @@
       <tuv lang="EN-US">
         <seg>Use the curriculum slides as an easy starting&lt;t0/&gt; &lt;t1/&gt;point for training -&lt;t2/&gt; &lt;t3/&gt;https://www.openchainproject.org/curriculum</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T064749Z" creationid="Takashi　Kunai" creationdate="20170608T064749Z">
-        <seg>トレーニングのとっかかりとして、カリキュラムの教材スライドを利用；&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;https://www.openchainproject.org/curriculum</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170609T072721Z" creationid="Takashi　Kunai" creationdate="20170608T064749Z">
+        <seg>トレーニングの出発点として、カリキュラムの教材スライドを利用；&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;https://www.openchainproject.org/curriculum</seg>
       </tuv>
     </tu>
     <tu>
