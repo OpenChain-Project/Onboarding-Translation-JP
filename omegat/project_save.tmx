@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>A conformant organization can advertise this fact on their website and promotional material, helping to ensure that potential suppliers and customers understand and can trust their approach to open source compliance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T065443Z" creationid="Takashi　Kunai" creationdate="20170605T010248Z">
-        <seg>適合した組織は、Webサイトや販促資料でその事実を宣伝することができ、商談の見込まれるサプライヤーや顧客が、オープンソース コンプライアンスに向けた取り組みを確実に理解し、信頼できるようになることに手を貸します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T055636Z" creationid="Takashi　Kunai" creationdate="20170605T010248Z">
+        <seg>適合組織は、Webサイトや販促資料でその事実をアピールできりため、商談の見込まれるサプライヤーや顧客も、オープンソース コンプライアンスに向けたその組織の取り組みを確実に理解し、信頼できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +352,8 @@
       <tuv lang="EN-US">
         <seg>OpenChain Conformance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T070525Z" creationid="Takashi　Kunai" creationdate="20170605T010544Z">
-        <seg>OpenChain 適合性</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T055756Z" creationid="Takashi　Kunai" creationdate="20170605T010544Z">
+        <seg>OpenChain適合</seg>
       </tuv>
     </tu>
     <tu>
@@ -368,8 +368,8 @@
       <tuv lang="EN-US">
         <seg>OpenChain Conformance can be done manually or via a free Online Self-Certification questionnaire provided by the OpenChain Project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T065632Z" creationid="Takashi　Kunai" creationdate="20170605T010940Z">
-        <seg>OpenChain への適合性は、手作業によって、あるいは、OpenChain プロジェクトが無料で提供するオンラインの自己診断質問集によって行うことができます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T055839Z" creationid="Takashi　Kunai" creationdate="20170605T010940Z">
+        <seg>OpenChainへの適合性は、手作業によって、あるいは、OpenChainプロジェクトが無料で提供するオンラインの自己診断質問集によって行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -760,8 +760,8 @@
       <tuv lang="EN-US">
         <seg>You can learn more about the OpenChain Specification here: &lt;t0/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T012906Z" creationid="Takashi　Kunai" creationdate="20170605T010527Z">
-        <seg>OpenChain 仕様書は、次のサイトでご覧になれます（日本語版もあります）； &lt;t0/&gt;https://www.openchainproject.org/spec</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T055742Z" creationid="Takashi　Kunai" creationdate="20170605T010527Z">
+        <seg>OpenChain仕様書は、次のサイトでご覧になれます（日本語版もあります）。 &lt;t0/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
     </tu>
     <tu>
