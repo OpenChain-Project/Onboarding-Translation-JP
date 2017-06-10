@@ -592,8 +592,8 @@
       <tuv lang="EN-US">
         <seg>The OpenChain Project offers a Specification and supporting material to help organizations of all sizes maximize their benefit from engagement with open source technology.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T071823Z" creationid="Takashi　Kunai" creationdate="20170605T023908Z">
-        <seg>OpenChain プロジェクトは、あらゆる規模の組織がオープンソースのテクノロジーへの参画から最大の恩恵を得ることができるよう、仕様書とサポート資料を提供しています。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T085751Z" creationid="Takashi　Kunai" creationdate="20170605T023908Z">
+        <seg>OpenChainプロジェクトは、あらゆる規模の組織がオープンソース テクノロジーへの参画から最大の恩恵を得られるように、仕様書とサポート資料を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -704,8 +704,8 @@
       <tuv lang="EN-US">
         <seg>To accomplish this it is licensed as CC-0, effectively public domain, so remixing or sharing it freely for any purpose is possible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T023035Z" creationid="Takashi　Kunai" creationdate="20170605T022246Z">
-        <seg>それを実現するべく、本カリキュラム教材は、事実上パブリック ドメインともみなすことのできるCC-0 ライセンスで提供されており、教材をどのような目的にでも自由に作り直したり、共有したりすることができるようになっています。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T085534Z" creationid="Takashi　Kunai" creationdate="20170605T022246Z">
+        <seg>それを実現するために、本カリキュラム スライドは、事実上パブリック ドメインともみなすことのできるCC-0 ライセンスで提供されており、あらゆる目的に合わせて自由に作り直したり、共有したりできるようになっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,8 +752,8 @@
       <tuv lang="EN-US">
         <seg>You can learn more about the OpenChain Curriculum here: &lt;t0/&gt;https://www.openchainproject.org/curriculum</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T023200Z" creationid="Takashi　Kunai" creationdate="20170605T023200Z">
-        <seg>OpenChain カリキュラムについての詳細は、次のサイトで確認できます： &lt;t0/&gt;https://www.openchainproject.org/curriculum</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T085620Z" creationid="Takashi　Kunai" creationdate="20170605T023200Z">
+        <seg>OpenChainカリキュラムの詳細については、以下のサイトで確認できます。 &lt;t0/&gt;https://www.openchainproject.org/curriculum</seg>
       </tuv>
     </tu>
     <tu>
