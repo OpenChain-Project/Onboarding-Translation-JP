@@ -408,16 +408,16 @@
       <tuv lang="EN-US">
         <seg>OpenChain also has a wide community of volunteers helping to make open source compliance easier</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T073107Z" creationid="Takashi　Kunai" creationdate="20170605T052517Z">
-        <seg>また、OpenChain には、オープンソース コンプライアンスが容易に実行できるようになることめざすボランティアの幅広いコミュニティが参加しています。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T090644Z" creationid="Takashi　Kunai" creationdate="20170605T052517Z">
+        <seg>また、OpenChainには、オープンソース コンプライアンスnoが容易に実行できるようになることめざすボランティアの幅広いコミュニティが参加しています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>OpenChain has nine Platinum Members that support its development and adoption: Adobe, ARM, Cisco, GitHub, Harman, HPE, Qualcomm, Siemens and Wind River.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T073004Z" creationid="Takashi　Kunai" creationdate="20170605T051901Z">
-        <seg>OpenChain では、9社のプラチナ メンバーがその開発と採用を支援しています： Adobe、ARM、Cisco、GitHub、Harman、HPE、Qualcomm、Siemens、および、Wind River。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T090624Z" creationid="Takashi　Kunai" creationdate="20170605T051901Z">
+        <seg>OpenChainでは、以下の9社のプラチナ メンバーがその開発と採用を支援しています。Adobe、ARM、Cisco、GitHub、Harman、HPE、Qualcomm、Siemens、Wind River。</seg>
       </tuv>
     </tu>
     <tu>
@@ -744,8 +744,8 @@
       <tuv lang="EN-US">
         <seg>You can learn more about each aspect of the OpenChain Project here: &lt;t0/&gt;https://www.openchainproject.org/faq</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T072900Z" creationid="Takashi　Kunai" creationdate="20170605T051434Z">
-        <seg>OpenChain プロジェクトの各側面についての詳細は、以下のWebサイトでご覧になることができます； &lt;t0/&gt;https://www.openchainproject.org/faq</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T090455Z" creationid="Takashi　Kunai" creationdate="20170605T051434Z">
+        <seg>OpenChainプロジェクトの各側面の詳細については、以下のWebサイトをご覧ください。 &lt;t0/&gt;https://www.openchainproject.org/faq</seg>
       </tuv>
     </tu>
     <tu>
