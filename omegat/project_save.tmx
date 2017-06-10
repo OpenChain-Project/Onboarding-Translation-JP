@@ -336,8 +336,8 @@
       <tuv lang="EN-US">
         <seg>On-Boarding</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170604T075740Z" creationid="Takashi　Kunai" creationdate="20170604T075740Z">
-        <seg>OpenChain 入門</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T045853Z" creationid="Takashi　Kunai" creationdate="20170604T075740Z">
+        <seg>入門</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +584,8 @@
       <tuv lang="EN-US">
         <seg>The OpenChain Project identifies key recommended processes for effective open source management.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T064148Z" creationid="Takashi　Kunai" creationdate="20170604T080153Z">
-        <seg>OpenChain プロジェクトは、効率的なオープンソースマネージメントの鍵となる推奨プロセスを提示します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T045907Z" creationid="Takashi　Kunai" creationdate="20170604T080153Z">
+        <seg>OpenChainプロジェクトは、効率的なオープンソースマネージメントの鍵となる推奨プロセスを提示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="EN-US">
         <seg>The project builds trust in open source by making open source license compliance simpler and more consistent.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T064232Z" creationid="Takashi　Kunai" creationdate="20170604T080602Z">
-        <seg>同プロジェクトは、オープンソースのライセンス コンプライアンスをよりシンプルにし、また、より首尾一貫したものにすることにより、オープンソースに対する信頼を築きます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T045931Z" creationid="Takashi　Kunai" creationdate="20170604T080602Z">
+        <seg>同プロジェクトは、オープンソースのライセンス コンプライアンスをシンプルdeにし、また、より首尾一貫したものにすることにより、オープンソースに対する信頼を築きます。</seg>
       </tuv>
     </tu>
     <tu>
