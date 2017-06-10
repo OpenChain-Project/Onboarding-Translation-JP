@@ -632,8 +632,8 @@
       <tuv lang="EN-US">
         <seg>The main goal of organizations using the OpenChain Specification is to become conformant.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T065234Z" creationid="Takashi　Kunai" creationdate="20170605T004731Z">
-        <seg>OpenChain 仕様書を利用する組織の主要な目標は、組織のコンプライアンス遵守です。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T054948Z" creationid="Takashi　Kunai" creationdate="20170605T004731Z">
+        <seg>OpenChain仕様書を使用する組織の主要な目標は、その適合組織となることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -696,8 +696,8 @@
       <tuv lang="EN-US">
         <seg>This means that their organization meets the requirements of a certain version of the OpenChain Specification.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T005019Z" creationid="Takashi　Kunai" creationdate="20170605T005019Z">
-        <seg>それは、当該組織がいずれかのバージョンの OpenChain 仕様書の要件に適合することを意味します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T055008Z" creationid="Takashi　Kunai" creationdate="20170605T005019Z">
+        <seg>それは、当該組織が特定いずれかのバージョンの OpenChain 仕様書の要件に適合することを意味します。</seg>
       </tuv>
     </tu>
     <tu>
