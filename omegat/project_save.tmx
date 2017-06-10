@@ -600,8 +600,8 @@
       <tuv lang="EN-US">
         <seg>The OpenChain Specification defines a core set of requirements every quality compliance program must satisfy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170604T080943Z" creationid="Takashi　Kunai" creationdate="20170604T080943Z">
-        <seg>OpenChain 仕様書は、あらゆるコンプライアンスプログラムが満たす必要のある一連の基本的な要件を定義します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T051433Z" creationid="Takashi　Kunai" creationdate="20170604T080943Z">
+        <seg>OpenChain仕様書は、あらゆる高い品質のコンプライアンス プログラムが満たさなければならない一連の基本的な要件を定義します。</seg>
       </tuv>
     </tu>
     <tu>
