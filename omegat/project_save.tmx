@@ -696,8 +696,8 @@
       <tuv lang="EN-US">
         <seg>This means that their organization meets the requirements of a certain version of the OpenChain Specification.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T055008Z" creationid="Takashi　Kunai" creationdate="20170605T005019Z">
-        <seg>それは、当該組織が特定いずれかのバージョンの OpenChain 仕様書の要件に適合することを意味します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T055247Z" creationid="Takashi　Kunai" creationdate="20170605T005019Z">
+        <seg>それは当該組織が特定のバージョンのOpenChain仕様書の要件を満たしていることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
