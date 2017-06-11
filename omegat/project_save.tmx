@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D&lt;t0/&gt;esired State = Broad Respect for Developer Rights + Low&lt;t1/&gt; &lt;t2/&gt;Transaction Costs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T020711Z" creationid="Takashi　Kunai" creationdate="20170611T020711Z">
+        <seg>望むべき状況 = 開発者の権利を幅広く尊重 + 少ない処理費用&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Definitions</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T012614Z" creationid="Takashi　Kunai" creationdate="20170315T012614Z">
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T072656Z" creationid="Takashi　Kunai" creationdate="20170607T035605Z">
         <seg>サプライチェーン上の各企業は開発者の権利とそのライセンスの選択を尊重する必要&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each company is re-creating es&lt;t0/&gt;sentially identical processes for&lt;t1/&gt; &lt;t2/&gt;open source&lt;t3/&gt; &lt;t4/&gt;compliance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T020620Z" creationid="Takashi　Kunai" creationdate="20170611T020620Z">
+        <seg>各企業が、オープンソース コンプライアンスに向けて、本質的に同一のプロセスを繰り返す&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,8 +536,8 @@
       <tuv lang="EN-US">
         <seg>Organizations certify that they meet the requirements of a&lt;t0/&gt; &lt;t1/&gt;certain version of the OpenChain&lt;t2/&gt; &lt;t3/&gt;Specification</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170609T072807Z" creationid="Takashi　Kunai" creationdate="20170608T015510Z">
-        <seg>組織は、OpenChain 仕様書の特定バージョンの要件への適合性を検証&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T020832Z" creationid="Takashi　Kunai" creationdate="20170608T015510Z">
+        <seg>組織は、OpenChain仕様書の特定バージョンの要件への適合性を検証&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1072,8 +1088,8 @@
       <tuv lang="EN-US">
         <seg>You can learn more about the OpenChain Specification&lt;t0/&gt; &lt;t1/&gt;here: &lt;t2/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T090515Z" creationid="Takashi　Kunai" creationdate="20170607T090515Z">
-        <seg>OpenChain 定義書の詳細については、次のサイトを参照のこと：&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/spec</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T020814Z" creationid="Takashi　Kunai" creationdate="20170607T090515Z">
+        <seg>OpenChain仕様書の詳細については、次のサイトを参照のこと：&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
