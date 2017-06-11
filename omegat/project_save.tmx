@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E&lt;t0/&gt;ach company in a supply chain needs to respect developer rights&lt;t1/&gt; &lt;t2/&gt;and license&lt;t3/&gt; &lt;t4/&gt;choices</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T020507Z" creationid="Takashi　Kunai" creationdate="20170611T020507Z">
+        <seg>サプライチェーン上の各企業は開発者の権利とそのライセンスの選択を尊重する必要&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each company in a supply chain needs to respect developer rights&lt;t0/&gt; &lt;t1/&gt;and license&lt;t2/&gt; &lt;t3/&gt;choices</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T072656Z" creationid="Takashi　Kunai" creationdate="20170607T035605Z">
@@ -368,8 +376,8 @@
       <tuv lang="EN-US">
         <seg>Onboarding</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T034439Z" creationid="Takashi　Kunai" creationdate="20170607T034439Z">
-        <seg>OpenChain 入門</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T020349Z" creationid="Takashi　Kunai" creationdate="20170607T034439Z">
+        <seg>オリエンテーション</seg>
       </tuv>
     </tu>
     <tu>
