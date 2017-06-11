@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>E&lt;t0/&gt;ach company in a supply chain needs to respect developer rights&lt;t1/&gt; &lt;t2/&gt;and license&lt;t3/&gt; &lt;t4/&gt;choices</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T020507Z" creationid="Takashi　Kunai" creationdate="20170611T020507Z">
-        <seg>サプライチェーン上の各企業は開発者の権利とそのライセンスの選択を尊重する必要&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T233802Z" creationid="Takashi　Kunai" creationdate="20170611T020507Z">
+        <seg>サプライチェーン上の各企業は開発者の権利とそのライセンスの選択を尊重する必要あり&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,8 +176,8 @@
       <tuv lang="EN-US">
         <seg>Each company is re-creating es&lt;t0/&gt;sentially identical processes for&lt;t1/&gt; &lt;t2/&gt;open source&lt;t3/&gt; &lt;t4/&gt;compliance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T020620Z" creationid="Takashi　Kunai" creationdate="20170611T020620Z">
-        <seg>各企業が、オープンソース コンプライアンスに向けて、本質的に同一のプロセスを繰り返す&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T233834Z" creationid="Takashi　Kunai" creationdate="20170611T020620Z">
+        <seg>各企業がオープンソース コンプライアンスに向けて、本質的に同一のプロセスを繰り返している&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,8 +192,8 @@
       <tuv lang="EN-US">
         <seg>Each company needs to identify, track and comply with FOSS&lt;t0/&gt; &lt;t1/&gt;components used in software&lt;t2/&gt; &lt;t3/&gt;distributions</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T072822Z" creationid="Takashi　Kunai" creationdate="20170607T040854Z">
-        <seg>各企業が、ソフトウェア頒布に用いられたFOSSコンポーネントを特定、それらを追跡、そのライセンス条件を履行する必要&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T233912Z" creationid="Takashi　Kunai" creationdate="20170607T040854Z">
+        <seg>各企業が、ソフトウェア頒布に用いられたFOSSコンポーネントを特定、追跡、そのライセンス条件を遵守する必要あり&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1048,8 +1048,8 @@
       <tuv lang="EN-US">
         <seg>When code moves downstream, receiving company has to perform the&lt;t0/&gt; &lt;t1/&gt;same work</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170609T071338Z" creationid="Takashi　Kunai" creationdate="20170607T041202Z">
-        <seg>ソフトウェア コードが下流に流れると、それらを受領した企業は、同じ作業を繰り返す&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T233932Z" creationid="Takashi　Kunai" creationdate="20170607T041202Z">
+        <seg>ソフトウェア コードが下流に流れると、それらを受領した企業は同じ作業を繰り返す&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
