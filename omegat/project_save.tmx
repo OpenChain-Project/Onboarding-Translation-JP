@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The simple Online Self-Certification makes engagement as simple as&lt;t1/&gt; &lt;t2/&gt;possible.&lt;t3/&gt; &lt;t4/&gt;The&lt;t5/&gt; &lt;t6/&gt;Curriculum&lt;t7/&gt; &lt;t8/&gt;offers&lt;t9/&gt; &lt;t10/&gt;numerous&lt;t11/&gt; &lt;t12/&gt;training&lt;t13/&gt; &lt;t14/&gt;and&lt;t15/&gt; &lt;t16/&gt;best&lt;t17/&gt; &lt;t18/&gt;practice&lt;t19/&gt; &lt;t20/&gt;opportunities&lt;t21/&gt; &lt;t22/&gt;both&lt;t23/&gt; &lt;t24/&gt;inside and&lt;t25/&gt; &lt;t26/&gt;outside&lt;t27/&gt; &lt;t28/&gt;of&lt;t29/&gt; &lt;t30/&gt;activi&lt;t31/&gt;ties&lt;t32/&gt; &lt;t33/&gt;directly&lt;t34/&gt; &lt;t35/&gt;related&lt;t36/&gt; &lt;t37/&gt;to&lt;t38/&gt; &lt;t39/&gt;the&lt;t40/&gt; &lt;t41/&gt;OpenChain&lt;t42/&gt; &lt;t43/&gt;Project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T005046Z" creationid="Takashi　Kunai" creationdate="20170611T005046Z">
+        <seg>オンライン自己診断は、オープンソース テクノロジーへの参画を可能な限りシンプルにします。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;カリキュラム&lt;t4/&gt;は、OpenChainプロジェクトに直結した活動の内外で、さまざまなトレーニングやベストプラクティスの機会を提供しています。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This document is made available under the Creative Commons CC0 1.0 Universal license.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T090902Z" creationid="Takashi　Kunai" creationdate="20170605T052618Z">
