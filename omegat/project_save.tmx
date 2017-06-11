@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;OpenChain&lt;t2/&gt; also has a wide community of volunteers helping to make open source compliance easier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T013956Z" creationid="Takashi　Kunai" creationdate="20170611T013956Z">
+        <seg>また、OpenChainには、オープンソース コンプライアンスの容易な実行を支援する幅広いボランティアのコミュニティが参加しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A conformant organization can advertise this fact on their website and promotional material, helping to ensure that potent&lt;t2/&gt;ial suppliers and customers understand and can trust their approach to open source compliance.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T003317Z" creationid="Takashi　Kunai" creationdate="20170611T003317Z">
@@ -336,8 +344,8 @@
       <tuv lang="EN-US">
         <seg>More specifically, it provides a generic, refined and clear example of an open source compliance training program that can either be used directly or incorporated into existing training programs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T085135Z" creationid="Takashi　Kunai" creationdate="20170605T021937Z">
-        <seg>すなわち、本カリキュラム スライドは、汎用的で、洗練された、また、明快なオープンソース コンプライアンス トレーニング プログラムの例を提供しており、それを教材として利用することもできれば、既存のトレーニング プログラムの中に組み込むこともできます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T014056Z" creationid="Takashi　Kunai" creationdate="20170605T021937Z">
+        <seg>すなわち、本カリキュラム スライドは、汎用的で、洗練された、また、明快なオープンソース コンプライアンス トレーニング プログラムの例を提供しており、そのまま教材として利用することもできれば、既存のトレーニング プログラムの中に組み込むこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T012942Z" creationid="Takashi　Kunai" creationdate="20170611T012942Z">
         <seg>OpenChain仕様書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain&lt;t0/&gt; has nine Platinum Members that support its development and adoption: Adobe, ARM, Cisco, GitHub, Harman, HPE, Qualcomm, Siemens and Wind River.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T013939Z" creationid="Takashi　Kunai" creationdate="20170611T013939Z">
+        <seg>OpenChainでは、以下の9社のプラチナ メンバーがその開発と採用を支援しています。Adobe、ARM、Cisco、GitHub、Harman、HPE、Qualcomm、Siemens、Wind River。</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most important point is that &lt;t2/&gt;OpenChain&lt;t3/&gt; builds trust by providing a clear way to show adoption of industry-standard processes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T013754Z" creationid="Takashi　Kunai" creationdate="20170611T013754Z">
+        <seg>最も重要なポイントは、業界標準プロセスを採用していることを示す明快な手法を提示することで、OpenChainが信頼を築いていることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most important point is that OpenChain builds trust &lt;t0/&gt;by providing a clear way to show adoption of industry-standard processes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T004523Z" creationid="Takashi　Kunai" creationdate="20170611T004523Z">
@@ -866,6 +890,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T005046Z" creationid="Takashi　Kunai" creationdate="20170611T005046Z">
         <seg>オンライン自己診断は、オープンソース テクノロジーへの参画を可能な限りシンプルにします。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;カリキュラム&lt;t4/&gt;は、OpenChainプロジェクトに直結した活動の内外で、さまざまなトレーニングやベストプラクティスの機会を提供しています。&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The simple Online Self-Certification makes engagement as simple as&lt;t4/&gt; &lt;t5/&gt;possible.&lt;t6/&gt; &lt;t7/&gt;The&lt;t8/&gt; &lt;t9/&gt;Curriculum&lt;t10/&gt; &lt;t11/&gt;offers&lt;t12/&gt; &lt;t13/&gt;numerous&lt;t14/&gt; &lt;t15/&gt;training&lt;t16/&gt; &lt;t17/&gt;and&lt;t18/&gt; &lt;t19/&gt;best&lt;t20/&gt; &lt;t21/&gt;practice&lt;t22/&gt; &lt;t23/&gt;opportunities&lt;t24/&gt; &lt;t25/&gt;both&lt;t26/&gt; &lt;t27/&gt;inside and&lt;t28/&gt; &lt;t29/&gt;outside&lt;t30/&gt; &lt;t31/&gt;of&lt;t32/&gt; &lt;t33/&gt;activities&lt;t34/&gt; &lt;t35/&gt;directly&lt;t36/&gt; &lt;t37/&gt;related&lt;t38/&gt; &lt;t39/&gt;to&lt;t40/&gt; &lt;t41/&gt;the&lt;t42/&gt; &lt;t43/&gt;OpenChain&lt;t44/&gt; &lt;t45/&gt;Project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T013831Z" creationid="Takashi　Kunai" creationdate="20170611T013831Z">
+        <seg>オンライン自己診断は、オープンソース テクノロジーへの参画を可能な限りシンプルにします。&lt;t4/&gt;&lt;t5/&gt;カリキュラム&lt;t6/&gt;&lt;t7/&gt;は、&lt;t8/&gt;&lt;t9/&gt;OpenChainプロジェクトに直結した活動の内外で、さまざまなトレーニングやベストプラクティスの機会を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,6 +1010,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170609T071338Z" creationid="Takashi　Kunai" creationdate="20170607T041202Z">
         <seg>ソフトウェア コードが下流に流れると、それらを受領した企業は、同じ作業を繰り返す&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can learn more about each aspect of the &lt;t0/&gt;OpenChain&lt;t1/&gt; Project here: &lt;t2/&gt;https://www.openchainproject.org/faq</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T013917Z" creationid="Takashi　Kunai" creationdate="20170611T013917Z">
+        <seg>OpenChainプロジェクトの各側面の詳細については、以下のWebサイトをご覧ください。&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;https://www.openchainproject.org/faq</seg>
       </tuv>
     </tu>
     <tu>
