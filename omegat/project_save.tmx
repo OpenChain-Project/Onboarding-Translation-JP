@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OpenC&lt;t0/&gt;hain Conformance can be done manually or via a free&lt;t1/&gt; &lt;t2/&gt;Online Self-Certification questionnaire provided by the OpenChain&lt;t3/&gt; &lt;t4/&gt;Project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021030Z" creationid="Takashi　Kunai" creationdate="20170611T021030Z">
+        <seg>OpenChain 適合性の検証は、手作業、あるいは、OpenChain プロジェクトが無償で提供するオンライン自己診断質問集による&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OpenChain Conformance</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T055756Z" creationid="Takashi　Kunai" creationdate="20170605T010544Z">
@@ -688,8 +696,8 @@
       <tuv lang="EN-US">
         <seg>The OpenChain Curriculum helps organizations meet certain&lt;t0/&gt; &lt;t1/&gt;aspects of the OpenChain&lt;t2/&gt; &lt;t3/&gt;Specification</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170609T072533Z" creationid="Takashi　Kunai" creationdate="20170608T021712Z">
-        <seg>OpenChain カリキュラムは、組織がOpenChain 仕様書を適用することを支援&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021059Z" creationid="Takashi　Kunai" creationdate="20170608T021712Z">
+        <seg>OpenChainカリキュラムは、組織がOpenChain仕様書を適用することを支援&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
