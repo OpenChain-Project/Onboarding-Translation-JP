@@ -542,6 +542,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t2/&gt;OpenChain&lt;t3/&gt; Specification defines a core set of requirements every quality compliance program must satisfy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T012530Z" creationid="Takashi　Kunai" creationdate="20170611T012530Z">
+        <seg>OpenChain仕様書は、あらゆる高い品質のコンプライアンス プログラムが満たさなければならない一連の基本的な要件を定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t4/&gt;OpenChain&lt;t5/&gt; Curriculum provides the educational foundation for open source processes and solutions, whilst meeting a key&lt;t6/&gt; &lt;t7/&gt;requirement&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;OpenChain&lt;t14/&gt; &lt;t15/&gt;Specification.&lt;t16/&gt; &lt;t17/&gt;OpenChain&lt;t18/&gt; &lt;t19/&gt;Conformance&lt;t20/&gt; &lt;t21/&gt;allows&lt;t22/&gt; &lt;t23/&gt;organizations to display their adherence to these requirements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T012607Z" creationid="Takashi　Kunai" creationdate="20170611T012607Z">
+        <seg>OpenChainカリキュラムは、OpenChain仕様書の主要な要件に沿って、さまざまなオープンソースのプロセスやソリューションに対応した教育基盤を提供しています。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;同仕様&lt;t13/&gt;&lt;t14/&gt;に適合することにより、&lt;t15/&gt; &lt;t16/&gt;組織はこれらの要件を履行していることを外部に示すことができます。&lt;t17/&gt;&lt;t18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Online Self-Certification service is available here in the English language: &lt;t0/&gt;https://www.opench&lt;t1/&gt;ainproject.org/conformance</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T004320Z" creationid="Takashi　Kunai" creationdate="20170611T004320Z">
