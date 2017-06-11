@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Join the Specification, Conformance process and Curr&lt;t0/&gt;iculum&lt;t1/&gt; &lt;t2/&gt;work teams</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021343Z" creationid="Takashi　Kunai" creationdate="20170611T021343Z">
+        <seg>「仕様書」、「適合性プロセス」、あるいは、「カリキュラム」の作業チームに参加&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Join the Specification, Conformance process and Curriculum&lt;t0/&gt; &lt;t1/&gt;work teams</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T065803Z" creationid="Takashi　Kunai" creationdate="20170608T065516Z">
@@ -1074,6 +1082,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T013326Z" creationid="Takashi　Kunai" creationdate="20170611T013326Z">
         <seg>OpenChain仕様書は、次のサイトでご覧になれます（日本語版もあります）。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/spec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can learn more about the OpenChain Curriculum here: &lt;t0/&gt;https://www.openchainproject.o&lt;t1/&gt;rg/curriculum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021245Z" creationid="Takashi　Kunai" creationdate="20170611T021245Z">
+        <seg>OpenChainカリキュラムの詳細については、以下のサイトで確認できる；&lt;t0/&gt;https://www.openchainproject.o&lt;t1/&gt;rg/curriculum</seg>
       </tuv>
     </tu>
     <tu>
