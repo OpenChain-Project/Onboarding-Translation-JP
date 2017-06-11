@@ -216,8 +216,8 @@
       <tuv lang="EN-US">
         <seg>For opportunities, see&lt;t0/&gt; &lt;t1/&gt;https://www.openchainproject.org/community</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T070343Z" creationid="Takashi　Kunai" creationdate="20170608T070343Z">
-        <seg>OpenChain コミュニティについては、次のサイトをご覧下さい；&lt;t0/&gt;&lt;t1/&gt;https://www.openchainproject.org/community</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021949Z" creationid="Takashi　Kunai" creationdate="20170608T070343Z">
+        <seg>OpenChainコミュニティについては、次のサイトをご覧下さい；&lt;t0/&gt;&lt;t1/&gt;https://www.openchainproject.org/community</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="EN-US">
         <seg>Friction Points Resolved</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T073345Z" creationid="Takashi　Kunai" creationdate="20170607T041941Z">
-        <seg>摩擦点を解決</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021811Z" creationid="Takashi　Kunai" creationdate="20170607T041941Z">
+        <seg>摩擦点を解消</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="EN-US">
         <seg>OpenC&lt;t0/&gt;hain Conformance can be done manually or via a free&lt;t1/&gt; &lt;t2/&gt;Online Self-Certification questionnaire provided by the OpenChain&lt;t3/&gt; &lt;t4/&gt;Project</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021030Z" creationid="Takashi　Kunai" creationdate="20170611T021030Z">
-        <seg>OpenChain 適合性の検証は、手作業、あるいは、OpenChain プロジェクトが無償で提供するオンライン自己診断質問集による&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021908Z" creationid="Takashi　Kunai" creationdate="20170611T021030Z">
+        <seg>OpenChain 適合性の検証は、手作業、あるいは、OpenChainプロジェクトが無償で提供するオンライン自己診断質問集による&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,8 +496,8 @@
       <tuv lang="EN-US">
         <seg>OpenChain provides a baseline process with freedom to optimize&lt;t0/&gt; &lt;t1/&gt;and customize</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T073501Z" creationid="Takashi　Kunai" creationdate="20170607T043039Z">
-        <seg>OpenChain は、最適化と個別化の自由を伴った基本プロセスを提供&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021820Z" creationid="Takashi　Kunai" creationdate="20170607T043039Z">
+        <seg>OpenChainは、最適化と個別化の自由を伴った基本プロセスを提供&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -608,8 +608,8 @@
       <tuv lang="EN-US">
         <seg>Review the OpenChain specification at&lt;t0/&gt; &lt;t1/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170609T073812Z" creationid="Takashi　Kunai" creationdate="20170608T064032Z">
-        <seg>OpenChain 仕様書をみてみる；&lt;t0/&gt;&lt;t1/&gt;https://www.openchainproject.org/spec</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021931Z" creationid="Takashi　Kunai" creationdate="20170608T064032Z">
+        <seg>OpenChain仕様書をみてみる；&lt;t0/&gt;&lt;t1/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
     </tu>
     <tu>
@@ -744,16 +744,16 @@
       <tuv lang="EN-US">
         <seg>The OpenChain Project</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T070511Z" creationid="Takashi　Kunai" creationdate="20170608T070511Z">
-        <seg>OpenChain プロジェクト</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T022009Z" creationid="Takashi　Kunai" creationdate="20170608T070511Z">
+        <seg>OpenChainプロジェクト</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The OpenChain Project Onboarding 1.0 © 2016-2017 The Linux Foundation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T034543Z" creationid="Takashi　Kunai" creationdate="20170607T034543Z">
-        <seg>OpenChain プロジェクト入門　第1.0版　 © 2016-2017 The Linux Foundation</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021724Z" creationid="Takashi　Kunai" creationdate="20170607T034543Z">
+        <seg>OpenChainプロジェクト入門　第1.0版　 © 2016-2017 The Linux Foundation</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,8 +792,8 @@
       <tuv lang="EN-US">
         <seg>The OpenChain-Enabled Supply Chain</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T070458Z" creationid="Takashi　Kunai" creationdate="20170608T070458Z">
-        <seg>OpenChain が実現するサプライチェーン</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021959Z" creationid="Takashi　Kunai" creationdate="20170608T070458Z">
+        <seg>OpenChainが実現するサプライチェーン</seg>
       </tuv>
     </tu>
     <tu>
