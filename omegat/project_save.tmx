@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The OpenChain Specification defines a core set of&lt;t0/&gt; requirements every quality compliance program must satisfy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T001054Z" creationid="Takashi　Kunai" creationdate="20170611T001054Z">
+        <seg>OpenChain仕様書は、あらゆる高い品質のコンプライアンス プログラムが満たさなければならない一連の基本的な要件を定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OpenChain-Enabled Supply Chain</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T070458Z" creationid="Takashi　Kunai" creationdate="20170608T070458Z">
