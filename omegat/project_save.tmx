@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The OpenChain Curriculum provides the educational foundation for open source processes and solutions, whilst meeting a key&lt;t1/&gt; &lt;t2/&gt;requirement&lt;t3/&gt; &lt;t4/&gt;of&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;OpenChain&lt;t9/&gt; &lt;t10/&gt;Specification.&lt;t11/&gt; &lt;t12/&gt;OpenChain&lt;t13/&gt; &lt;t14/&gt;Conformance&lt;t15/&gt; &lt;t16/&gt;allows&lt;t17/&gt; &lt;t18/&gt;organizations to display their adherence to these requirements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T002959Z" creationid="Takashi　Kunai" creationdate="20170611T002959Z">
+        <seg>OpenChainカリキュラムは、OpenChain仕様書の主要な要件に沿って、さまざまなオープンソースのプロセスやソリューションに対応した教育基盤を提供しています。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;同仕様&lt;t13/&gt;&lt;t14/&gt;に適合することにより、&lt;t15/&gt; &lt;t16/&gt;組織はこれらの要件を履行していることを外部に示すことができます。&lt;t17/&gt;&lt;t18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OpenChain Initiative began in 2013 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organization&lt;t0/&gt;s with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170315T022709Z" creationid="Takashi　Kunai" creationdate="20170315T022709Z">
@@ -630,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The core of th&lt;t0/&gt;e OpenChain Project is the Specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T003137Z" creationid="Takashi　Kunai" creationdate="20170611T003137Z">
+        <seg>OpenChainプロジェクトの中核は仕様書です。&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The core of the OpenChain Project is the Specification.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T052241Z" creationid="Takashi　Kunai" creationdate="20170604T083030Z">
@@ -642,6 +658,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T054948Z" creationid="Takashi　Kunai" creationdate="20170605T004731Z">
         <seg>OpenChain仕様書を使用する組織の主要な目標は、その適合組織となることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main goal of organizations using the OpenChain Specification is&lt;t1/&gt; to become conformant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T003224Z" creationid="Takashi　Kunai" creationdate="20170611T003224Z">
+        <seg>OpenChain仕様書を使用する組織の主要な目標は、その適合組織となることです。&lt;t1/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +698,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T052133Z" creationid="Takashi　Kunai" creationdate="20170604T082935Z">
         <seg>その結果、ソフトウェア サプライチェーンの参加者にとって、オープンソース ライセンス コンプライアンスがより予測可能で、理解しやすく、効率的なものになります。&lt;t18/&gt; &lt;t19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result is that open source license compliance becomes more predictable, understandable and efficient for participants of the software supply&lt;t19/&gt; &lt;t20/&gt;chain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T003053Z" creationid="Takashi　Kunai" creationdate="20170611T003053Z">
+        <seg>その結果、ソフトウェア サプライチェーンの参加者にとって、オープンソース ライセンス コンプライアンスがより予測可能で、理解しやすく、効率的なものになります。&lt;t19/&gt;&lt;t20/&gt;</seg>
       </tuv>
     </tu>
     <tu>
