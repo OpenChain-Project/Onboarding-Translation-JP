@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OpenChain&lt;t0/&gt; Specification</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T012942Z" creationid="Takashi　Kunai" creationdate="20170611T012942Z">
+        <seg>OpenChain仕様書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Organizations can advertise their conformance on their website&lt;t0/&gt; &lt;t1/&gt;and promotional&lt;t2/&gt; &lt;t3/&gt;material</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074855Z" creationid="Takashi　Kunai" creationdate="20170608T020216Z">
@@ -552,8 +560,8 @@
       <tuv lang="EN-US">
         <seg>The &lt;t4/&gt;OpenChain&lt;t5/&gt; Curriculum provides the educational foundation for open source processes and solutions, whilst meeting a key&lt;t6/&gt; &lt;t7/&gt;requirement&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;OpenChain&lt;t14/&gt; &lt;t15/&gt;Specification.&lt;t16/&gt; &lt;t17/&gt;OpenChain&lt;t18/&gt; &lt;t19/&gt;Conformance&lt;t20/&gt; &lt;t21/&gt;allows&lt;t22/&gt; &lt;t23/&gt;organizations to display their adherence to these requirements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T012607Z" creationid="Takashi　Kunai" creationdate="20170611T012607Z">
-        <seg>OpenChainカリキュラムは、OpenChain仕様書の主要な要件に沿って、さまざまなオープンソースのプロセスやソリューションに対応した教育基盤を提供しています。&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;同仕様&lt;t13/&gt;&lt;t14/&gt;に適合することにより、&lt;t15/&gt; &lt;t16/&gt;組織はこれらの要件を履行していることを外部に示すことができます。&lt;t17/&gt;&lt;t18/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T012916Z" creationid="Takashi　Kunai" creationdate="20170611T012607Z">
+        <seg>OpenChainカリキュラムは、OpenChain仕様書の主要な要件に沿って、さまざまなオープンソースのプロセスやソリューションに対応した教育基盤を提供しています。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;同仕様&lt;t13/&gt;&lt;t14/&gt;に適合することにより、&lt;t15/&gt; &lt;t16/&gt;組織はこれらの要件を履行していることを外部に示すことができます。&lt;t17/&gt;&lt;t18/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,10 +710,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The core of the &lt;t0/&gt;OpenChain&lt;t1/&gt; Project is the Specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T012957Z" creationid="Takashi　Kunai" creationdate="20170611T012957Z">
+        <seg>OpenChainプロジェクトの中核は仕様書です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The core of the OpenChain Project is the Specification.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T052241Z" creationid="Takashi　Kunai" creationdate="20170604T083030Z">
         <seg>OpenChainプロジェクトの中核は仕様書です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main goal of organizations using the &lt;t4/&gt;OpenChain&lt;t5/&gt; Specification is to become conformant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T013041Z" creationid="Takashi　Kunai" creationdate="20170611T013041Z">
+        <seg>OpenChain仕様書を使用する組織の主要な目標は、その適合組織となることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result is that open source license compliance becomes more predictable, understandable and efficient for participants of the software supply&lt;t24/&gt; &lt;t25/&gt;chain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T012852Z" creationid="Takashi　Kunai" creationdate="20170611T012852Z">
+        <seg>その結果、ソフトウェア サプライチェーンの参加者にとって、オープンソース ライセンス コンプライアンスがより予測可能で、理解しやすく、効率的なものになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The simple Online Self-Certification makes engagement as simple as&lt;t0/&gt; &lt;t1/&gt;possible.&lt;t2/&gt; &lt;t3/&gt;The&lt;t4/&gt; &lt;t5/&gt;Curriculum&lt;t6/&gt; &lt;t7/&gt;offers&lt;t8/&gt; &lt;t9/&gt;numerous&lt;t10/&gt; &lt;t11/&gt;training&lt;t12/&gt; &lt;t13/&gt;and&lt;t14/&gt; &lt;t15/&gt;best&lt;t16/&gt; &lt;t17/&gt;practice&lt;t18/&gt; &lt;t19/&gt;opportunities&lt;t20/&gt; &lt;t21/&gt;both&lt;t22/&gt; &lt;t23/&gt;inside and&lt;t24/&gt; &lt;t25/&gt;outside&lt;t26/&gt; &lt;t27/&gt;of&lt;t28/&gt; &lt;t29/&gt;activities&lt;t30/&gt; &lt;t31/&gt;directly&lt;t32/&gt; &lt;t33/&gt;related&lt;t34/&gt; &lt;t35/&gt;to&lt;t36/&gt; &lt;t37/&gt;the&lt;t38/&gt; &lt;t39/&gt;OpenChain&lt;t40/&gt; &lt;t41/&gt;Project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T090353Z" creationid="Takashi　Kunai" creationdate="20170605T032730Z">
@@ -798,10 +830,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This identifies &lt;t2/&gt;identifies&lt;t3/&gt; a series of processes that help ensure organizations of any size can address open source compliance issues effectively.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T013022Z" creationid="Takashi　Kunai" creationdate="20170611T013022Z">
+        <seg>この仕様書が提示する一連のプロセスは、あらゆる規模の組織が確実にオープンソース コンプライアンスの課題を効率よく処理できるよう手助けします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This identifies identifies a series of processes that help ensure organizations of any size can address open source compliance issues effectively.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T054643Z" creationid="Takashi　Kunai" creationdate="20170605T004507Z">
         <seg>この仕様書が提示する一連のプロセスは、あらゆる規模の組織が確実にオープンソース コンプライアンスの課題を効率よく処理できるよう手助けします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that their organization meets the requirements of a certain version of the &lt;t6/&gt;OpenChain&lt;t7/&gt; Specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T013057Z" creationid="Takashi　Kunai" creationdate="20170611T013057Z">
+        <seg>それは当該組織が特定のバージョンのOpenChain仕様書の要件を満たしていることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
