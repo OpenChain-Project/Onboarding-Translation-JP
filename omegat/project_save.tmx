@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>A conformant organization can advertise this fact on their website and promotional material, helping to ensure that potent&lt;t2/&gt;ial suppliers and customers understand and can trust their approach to open source compliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T003317Z" creationid="Takashi　Kunai" creationdate="20170611T003317Z">
+        <seg>適合組織は、Webサイトや販促資料でその事実をアピールできるため、商談の見込まれるサプライヤーや顧客も、オープンソース コンプライアンスに向けたその組織の取り組みを確実に理解し、信頼できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A conformant organization can advertise this fact on their website and promotional material, helping to ensure that potential suppliers and customers understand and can trust their approach to open source compliance.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T055636Z" creationid="Takashi　Kunai" creationdate="20170605T010248Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="JA" changeid="MiekoSato" changedate="20170315T021348Z" creationid="Takashi　Kunai" creationdate="20170315T003439Z">
         <seg>OpenChain 適合仕様書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain Conformance can be done manually or via a free Online Self-Certification &lt;t0/&gt;questionnaire provided by the OpenChain Project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T003418Z" creationid="Takashi　Kunai" creationdate="20170611T003418Z">
+        <seg>OpenChainへの適合は、手作業によって、あるいは、OpenChainプロジェクトが無料で提供するオンラインの自己診断質問集によって行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
