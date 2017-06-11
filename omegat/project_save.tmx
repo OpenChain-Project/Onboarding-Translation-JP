@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Project identifies key recommended processes for effective open source management.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T012409Z" creationid="Takashi　Kunai" creationdate="20170611T012409Z">
+        <seg>OpenChainプロジェクトは、効率的なオープンソースマネージメントの鍵となる推奨プロセスを提示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Online Self-Certification service is available here in the English language: &lt;t0/&gt;https://www.opench&lt;t1/&gt;ainproject.org/conformance</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T004320Z" creationid="Takashi　Kunai" creationdate="20170611T004320Z">
