@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More specifically, it provides a generic, refined and clear example of an open source compliance training pro&lt;t0/&gt;gram that can either be used directly or incorporated into existing training programs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T004412Z" creationid="Takashi　Kunai" creationdate="20170611T004412Z">
+        <seg>すなわち、本カリキュラム スライドは、汎用的で、洗練された、また、明快なオープンソース コンプライアンス トレーニング プログラムの例を提供しており、それを教材として利用することもできれば、既存のトレーニング プログラムの中に組み込むこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More specifically, it provides a generic, refined and clear example of an open source compliance training program that can either be used directly or incorporated into existing training programs.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T085135Z" creationid="Takashi　Kunai" creationdate="20170605T021937Z">
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170605T051446Z" creationid="Takashi　Kunai" creationdate="20170605T051446Z">
         <seg>支援者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Online Self-Certification service is available here in the English language: &lt;t0/&gt;https://www.opench&lt;t1/&gt;ainproject.org/conformance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T004320Z" creationid="Takashi　Kunai" creationdate="20170611T004320Z">
+        <seg>オンライン自己診断サービスは、現在のところ英語のみですが、以下のサイトで利用できます。 &lt;t0/&gt;https://www.opench&lt;t1/&gt;ainproject.org/conformance</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To accomplish this it is licensed as CC-&lt;t1/&gt;0, effectively public domain, so remixing or sharing it freely for any purpose is possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T004448Z" creationid="Takashi　Kunai" creationdate="20170611T004448Z">
+        <seg>それを実現するために、本カリキュラム スライドは、事実上パブリック ドメインともみなすことのできるCC-0 ライセンスで提供されており、あらゆる目的に合わせて自由に作り直したり、共有したりできるようになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Upstream compliance work is preserved, available, and reusable for&lt;t0/&gt; &lt;t1/&gt;others</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T073620Z" creationid="Takashi　Kunai" creationdate="20170607T044458Z">
@@ -786,6 +810,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T070616Z" creationid="Takashi　Kunai" creationdate="20170605T012546Z">
         <seg>すべての規模の組織に&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;オンライン自己診断&lt;t8/&gt;の利用をお勧めします。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;この自己診断は、&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;OpenChain仕様書への適合性をもっとも迅速、&lt;t16/&gt;&lt;t17/&gt;容易、&lt;t18/&gt;&lt;t19/&gt;かつ&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;効果率的に&lt;t24/&gt;&lt;t25/&gt;チェックおよび確認できる方法です。&lt;t26/&gt; &lt;t27/&gt;&lt;t28/&gt; &lt;t29/&gt;&lt;t30/&gt; &lt;t31/&gt;&lt;t32/&gt; &lt;t33/&gt;&lt;t34/&gt; &lt;t35/&gt;&lt;t36/&gt; &lt;t37/&gt;&lt;t38/&gt; &lt;t39/&gt;&lt;t40/&gt; &lt;t41/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We recommend that organizations of all sizes&lt;t1/&gt; &lt;t2/&gt;use&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;Online&lt;t7/&gt; &lt;t8/&gt;Self-Certification.&lt;t9/&gt; &lt;t10/&gt;It&lt;t11/&gt; &lt;t12/&gt;is&lt;t13/&gt; &lt;t14/&gt;the&lt;t15/&gt; &lt;t16/&gt;quickest,&lt;t17/&gt; &lt;t18/&gt;ea&lt;t19/&gt;siest&lt;t20/&gt; &lt;t21/&gt;and&lt;t22/&gt; &lt;t23/&gt;most&lt;t24/&gt; &lt;t25/&gt;effective&lt;t26/&gt; &lt;t27/&gt;way&lt;t28/&gt; &lt;t29/&gt;to&lt;t30/&gt; &lt;t31/&gt;check and&lt;t32/&gt; &lt;t33/&gt;confirm&lt;t34/&gt; &lt;t35/&gt;adherence&lt;t36/&gt; &lt;t37/&gt;to&lt;t38/&gt; &lt;t39/&gt;the&lt;t40/&gt; &lt;t41/&gt;OpenChain&lt;t42/&gt; &lt;t43/&gt;Specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T004223Z" creationid="Takashi　Kunai" creationdate="20170611T004223Z">
+        <seg>すべての規模の組織に&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt; オンライン自己診断&lt;t8/&gt;の利用をお勧めします。この自己診断は、&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;OpenChain仕様書への適合性をもっとも迅速、容易、効果的にチェックおよび確認できる方法です。&lt;t13/&gt; &lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt; &lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt; &lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
       </tuv>
     </tu>
     <tu>
