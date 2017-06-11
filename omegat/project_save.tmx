@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most important point is that OpenChain builds trust &lt;t0/&gt;by providing a clear way to show adoption of industry-standard processes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T004523Z" creationid="Takashi　Kunai" creationdate="20170611T004523Z">
+        <seg>最も重要なポイントは、業界標準プロセスを採用していることを示す明快な手法を提示することで、OpenChainが信頼を築いていることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most important point is that OpenChain builds trust by providing a clear way to show adoption of industry-standard processes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T090123Z" creationid="Takashi　Kunai" creationdate="20170605T024847Z">
