@@ -64,8 +64,8 @@
       <tuv lang="EN-US">
         <seg>Compliance with open source license&lt;t0/&gt; &lt;t1/&gt;obligations</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170609T071745Z" creationid="Takashi　Kunai" creationdate="20170607T085513Z">
-        <seg>オープンソース ランセンスの義務を履行&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T081443Z" creationid="Takashi　Kunai" creationdate="20170607T085513Z">
+        <seg>オープンソース ランセンスの義務遵守&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +304,8 @@
       <tuv lang="EN-US">
         <seg>Identifies a minimum level of processes that organizations of any&lt;t0/&gt; &lt;t1/&gt;size can use address open source compliance issues&lt;t2/&gt; &lt;t3/&gt;effectively</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074502Z" creationid="Takashi　Kunai" creationdate="20170607T090225Z">
-        <seg>どんな規模の組織でも利用できる最小限のプロセスを特定し、効率的にオープンソース コンプライアンスの課題に対応&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T081721Z" creationid="Takashi　Kunai" creationdate="20170607T090225Z">
+        <seg>あらゆる規模の組織で利用できる最小限のプロセスを特定し、効果的にオープンソース コンプライアンスの課題を処理&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
