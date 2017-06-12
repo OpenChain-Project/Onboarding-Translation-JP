@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>Compliance has less impact on the software development&lt;t0/&gt; &lt;t1/&gt;process</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T073909Z" creationid="Takashi　Kunai" creationdate="20170607T083736Z">
-        <seg>コンプライアンスが、ソフトウェア開発プロセスに影響を与えることを防ぐ&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T080505Z" creationid="Takashi　Kunai" creationdate="20170607T083736Z">
+        <seg>コンプライアンスがソフトウェア開発プロセスに大きな影響を与えることを防ぐ&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +384,8 @@
       <tuv lang="EN-US">
         <seg>More trustworthy results throughout the supply&lt;t0/&gt; &lt;t1/&gt;chain</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T083459Z" creationid="Takashi　Kunai" creationdate="20170607T083459Z">
-        <seg>サプライチェーン全体に渡って、より高い信頼性&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T080413Z" creationid="Takashi　Kunai" creationdate="20170607T083459Z">
+        <seg>結果としてサプライチェーン全体に渡ってより高い信頼性&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,8 +496,8 @@
       <tuv lang="EN-US">
         <seg>OpenChain provides a baseline process with freedom to optimize&lt;t0/&gt; &lt;t1/&gt;and customize</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021820Z" creationid="Takashi　Kunai" creationdate="20170607T043039Z">
-        <seg>OpenChainは、最適化と個別化の自由を伴った基本プロセスを提供&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T080141Z" creationid="Takashi　Kunai" creationdate="20170607T043039Z">
+        <seg>OpenChainは、最適化と個別化の自由を伴った基本プロセスを提示&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,8 +1008,8 @@
       <tuv lang="EN-US">
         <seg>Upstream compliance work is preserved, available, and reusable for&lt;t0/&gt; &lt;t1/&gt;others</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T073620Z" creationid="Takashi　Kunai" creationdate="20170607T044458Z">
-        <seg>上流のコンプライアンス作業の成果は、他社のために保存、提供、さらに、再利用可&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T080246Z" creationid="Takashi　Kunai" creationdate="20170607T044458Z">
+        <seg>上流のコンプライアンス作業の成果は、他社のために保存、提供、そして再利用可&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
