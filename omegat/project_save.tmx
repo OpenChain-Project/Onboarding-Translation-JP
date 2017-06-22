@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>Downstream recipients understand upstream compliance processes,&lt;t0/&gt; &lt;t1/&gt;can reuse compliance&lt;t2/&gt; &lt;t3/&gt;work</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170609T071505Z" creationid="Takashi　Kunai" creationdate="20170607T045845Z">
-        <seg>下流企業は、上流のコンプライアンス プロセスを理解し、コンプライアンスの成果を再利用&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T065958Z" creationid="Takashi　Kunai" creationdate="20170607T045845Z">
+        <seg>下流企業は、上流企業のコンプライアンス プロセスを理解し、それを再利用することが可能&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +384,8 @@
       <tuv lang="EN-US">
         <seg>More trustworthy results throughout the supply&lt;t0/&gt; &lt;t1/&gt;chain</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T080413Z" creationid="Takashi　Kunai" creationdate="20170607T083459Z">
-        <seg>結果としてサプライチェーン全体に渡ってより高い信頼性&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T070204Z" creationid="Takashi　Kunai" creationdate="20170607T083459Z">
+        <seg>サプライチェーン全体に渡ってより信頼性の高いコンプライアンス遂行&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
