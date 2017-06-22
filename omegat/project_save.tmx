@@ -48,16 +48,16 @@
       <tuv lang="EN-US">
         <seg>Common Process for Open Source Software Governance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T080535Z" creationid="Takashi　Kunai" creationdate="20170607T083911Z">
-        <seg>オープンソース ソフトウェアの管理に対する共通プロセス</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T070336Z" creationid="Takashi　Kunai" creationdate="20170607T083911Z">
+        <seg>オープンソース ソフトウェアのガバナンスのための共通プロセス</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Compliance has less impact on the software development&lt;t0/&gt; &lt;t1/&gt;process</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T080505Z" creationid="Takashi　Kunai" creationdate="20170607T083736Z">
-        <seg>コンプライアンスがソフトウェア開発プロセスに大きな影響を与えることを防ぐ&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T070243Z" creationid="Takashi　Kunai" creationdate="20170607T083736Z">
+        <seg>コンプライアンスがソフトウェア開発プロセスに大きな影響を与えない&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
