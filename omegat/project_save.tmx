@@ -448,8 +448,8 @@
       <tuv lang="EN-US">
         <seg>OpenChain Conformance can be done manually or via a free&lt;t0/&gt; &lt;t1/&gt;Online Self-Certification questionnaire provided by the OpenChain&lt;t2/&gt; &lt;t3/&gt;Project</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074546Z" creationid="Takashi　Kunai" creationdate="20170608T015952Z">
-        <seg>OpenChain 適合性の検証は、手作業、あるいは、OpenChain プロジェクトが無償で提供するオンライン自己診断質問集による&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T071932Z" creationid="Takashi　Kunai" creationdate="20170608T015952Z">
+        <seg>OpenChain適合性の検証は、手作業、あるいは、OpenChainプロジェクトが無償で提供する「オンライン自己診断」で実施&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +544,8 @@
       <tuv lang="EN-US">
         <seg>Organizations can advertise their conformance on their website&lt;t0/&gt; &lt;t1/&gt;and promotional&lt;t2/&gt; &lt;t3/&gt;material</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T081946Z" creationid="Takashi　Kunai" creationdate="20170608T020216Z">
-        <seg>組織は、適合性をWebサイトや販促資材でアピールできる&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T071948Z" creationid="Takashi　Kunai" creationdate="20170608T020216Z">
+        <seg>組織は、適合性をWebサイトや販促資材で宣伝できる&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,8 +688,8 @@
       <tuv lang="EN-US">
         <seg>The Online Self-Certification service is available here in the&lt;t0/&gt; &lt;t1/&gt;English language: &lt;t2/&gt;https://www.openchainproject.org/conformance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T082030Z" creationid="Takashi　Kunai" creationdate="20170608T020752Z">
-        <seg>オンライン自己診断サービスは、以下のサイトで利用可能（現在のところ英語のみ）：&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/conformance</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T072019Z" creationid="Takashi　Kunai" creationdate="20170608T020752Z">
+        <seg>「オンライン自己診断」サービスは、以下のサイトで利用可能（現在のところ英語のみ）；&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/conformance</seg>
       </tuv>
     </tu>
     <tu>
