@@ -120,8 +120,8 @@
       <tuv lang="EN-US">
         <seg>Desired State = Broad Respect for Developer Rights + Low&lt;t0/&gt; &lt;t1/&gt;Transaction Costs</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T042519Z" creationid="Takashi　Kunai" creationdate="20170607T042519Z">
-        <seg>望むべき状況 = 開発者の権利を幅広く尊重 + 少ない処理費用&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T065311Z" creationid="Takashi　Kunai" creationdate="20170607T042519Z">
+        <seg>コストを抑えて、かつ、 開発者の権利を幅広く尊重&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,8 +496,8 @@
       <tuv lang="EN-US">
         <seg>OpenChain provides a baseline process with freedom to optimize&lt;t0/&gt; &lt;t1/&gt;and customize</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T080141Z" creationid="Takashi　Kunai" creationdate="20170607T043039Z">
-        <seg>OpenChainは、最適化と個別化の自由を伴った基本プロセスを提示&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T065533Z" creationid="Takashi　Kunai" creationdate="20170607T043039Z">
+        <seg>OpenChainは、企業に合わせた最適化とカスタマイズが可能な基本プロセスを提示&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
