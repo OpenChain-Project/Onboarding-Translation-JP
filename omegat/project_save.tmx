@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>Documentation of&lt;t0/&gt; &lt;t1/&gt;policies</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074252Z" creationid="Takashi　Kunai" creationdate="20170607T085110Z">
-        <seg>ポリシーの文書化&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T071009Z" creationid="Takashi　Kunai" creationdate="20170607T085110Z">
+        <seg>ポリシーが文書化されている&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="EN-US">
         <seg>Educated&lt;t0/&gt; &lt;t1/&gt;personnel</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T081345Z" creationid="Takashi　Kunai" creationdate="20170607T084930Z">
-        <seg>十全に教育された要員&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T070922Z" creationid="Takashi　Kunai" creationdate="20170607T084930Z">
+        <seg>コンプライアンスを理解する要員の育成&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,16 +584,16 @@
       <tuv lang="EN-US">
         <seg>Reliable internal processes&lt;t0/&gt; &lt;t1/&gt;include</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074057Z" creationid="Takashi　Kunai" creationdate="20170607T085038Z">
-        <seg>信頼性のある社内プロセスには以下が含まれる；&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T070957Z" creationid="Takashi　Kunai" creationdate="20170607T085038Z">
+        <seg>信頼できる社内プロセスとは；&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Reliable internal&lt;t0/&gt; &lt;t1/&gt;processes</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T084845Z" creationid="Takashi　Kunai" creationdate="20170607T084845Z">
-        <seg>信頼性のある社内プロセス&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T070835Z" creationid="Takashi　Kunai" creationdate="20170607T084845Z">
+        <seg>信頼できる社内プロセスの構築&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
