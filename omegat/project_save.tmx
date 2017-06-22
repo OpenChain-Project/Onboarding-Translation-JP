@@ -1048,8 +1048,8 @@
       <tuv lang="EN-US">
         <seg>When code moves downstream, receiving company has to perform the&lt;t0/&gt; &lt;t1/&gt;same work</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T233932Z" creationid="Takashi　Kunai" creationdate="20170607T041202Z">
-        <seg>ソフトウェア コードが下流に流れると、それらを受領した企業は同じ作業を繰り返す&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T064756Z" creationid="Takashi　Kunai" creationdate="20170607T041202Z">
+        <seg>そのソフトウェアのコードが下流企業に配布されると、それを受領した企業は同じ作業を実施する必要がある&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
