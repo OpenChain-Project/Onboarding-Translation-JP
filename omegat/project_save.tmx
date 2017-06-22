@@ -64,8 +64,8 @@
       <tuv lang="EN-US">
         <seg>Compliance with open source license&lt;t0/&gt; &lt;t1/&gt;obligations</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T081443Z" creationid="Takashi　Kunai" creationdate="20170607T085513Z">
-        <seg>オープンソース ランセンスの義務遵守&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T071249Z" creationid="Takashi　Kunai" creationdate="20170607T085513Z">
+        <seg>オープンソース ランセンスの義務を遵守&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>Core of the OpenChain&lt;t0/&gt; &lt;t1/&gt;Project</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170609T071756Z" creationid="Takashi　Kunai" creationdate="20170607T085612Z">
-        <seg>OpenChain&lt;t0/&gt;&lt;t1/&gt;プロジェクトの中核</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T071305Z" creationid="Takashi　Kunai" creationdate="20170607T085612Z">
+        <seg>OpenChain&lt;t0/&gt;&lt;t1/&gt;プロジェクトの根幹</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,16 +296,16 @@
       <tuv lang="EN-US">
         <seg>Governance by a decision-making body with authority and&lt;t0/&gt; &lt;t1/&gt;expertise</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170607T085246Z" creationid="Takashi　Kunai" creationdate="20170607T085246Z">
-        <seg>権限と専門性を備えた社内の意志決定機関による統制&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T071145Z" creationid="Takashi　Kunai" creationdate="20170607T085246Z">
+        <seg>権限と専門性を備えた社内の意志決定機関によるガバナンスが実行されている&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Identifies a minimum level of processes that organizations of any&lt;t0/&gt; &lt;t1/&gt;size can use address open source compliance issues&lt;t2/&gt; &lt;t3/&gt;effectively</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T081721Z" creationid="Takashi　Kunai" creationdate="20170607T090225Z">
-        <seg>あらゆる規模の組織で利用できる最小限のプロセスを特定し、効果的にオープンソース コンプライアンスの課題を処理&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt; &lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T071445Z" creationid="Takashi　Kunai" creationdate="20170607T090225Z">
+        <seg>どのような規模の組織で利用可能な最小限のプロセスを規定しており、効果的にオープンソース コンプライアンスの課題に対処できる&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +360,8 @@
       <tuv lang="EN-US">
         <seg>Monitoring of internal&lt;t0/&gt; &lt;t1/&gt;conformance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T074307Z" creationid="Takashi　Kunai" creationdate="20170607T085420Z">
-        <seg>社内の適合性監視&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T071226Z" creationid="Takashi　Kunai" creationdate="20170607T085420Z">
+        <seg>社内の適合性評価の過程が監視可能&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
