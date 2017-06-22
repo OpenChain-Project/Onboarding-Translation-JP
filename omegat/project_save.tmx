@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>Developed by a broad base of corporate and community&lt;t0/&gt; &lt;t1/&gt;participants</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T081810Z" creationid="Takashi　Kunai" creationdate="20170607T090340Z">
-        <seg>幅広い企業・コミュニティの参加者によって作成された&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T071507Z" creationid="Takashi　Kunai" creationdate="20170607T090340Z">
+        <seg>幅広い企業・コミュニティの参加者が作成&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,8 +552,8 @@
       <tuv lang="EN-US">
         <seg>Organizations certify that they meet the requirements of a&lt;t0/&gt; &lt;t1/&gt;certain version of the OpenChain&lt;t2/&gt; &lt;t3/&gt;Specification</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T081928Z" creationid="Takashi　Kunai" creationdate="20170608T015510Z">
-        <seg>OpenChain仕様書の特定バージョンの要件への適合性を検証&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T071642Z" creationid="Takashi　Kunai" creationdate="20170608T015510Z">
+        <seg>組織は、OpenChain仕様書の特定バージョンの要件を満たしていることを検証&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
