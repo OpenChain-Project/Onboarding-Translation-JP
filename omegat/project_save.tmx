@@ -232,8 +232,8 @@
       <tuv lang="EN-US">
         <seg>Friction Points Resolved</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021811Z" creationid="Takashi　Kunai" creationdate="20170607T041941Z">
-        <seg>摩擦点を解消</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T065236Z" creationid="Takashi　Kunai" creationdate="20170607T041941Z">
+        <seg>OpenChainが提供する課題解決方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="EN-US">
         <seg>Receiving company has no visibility into compliance decisions or&lt;t0/&gt; &lt;t1/&gt;processes from upstream&lt;t2/&gt; &lt;t3/&gt;vendors</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T080028Z" creationid="Takashi　Kunai" creationdate="20170607T041517Z">
-        <seg>受領企業は、上流ベンダーのコンプライアンス関連の決定やプロセスについて何も見えない&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T065038Z" creationid="Takashi　Kunai" creationdate="20170607T041517Z">
+        <seg>受領した企業からは、上流企業のコンプライアンス関連の決定事項やプロセスが見えない&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
