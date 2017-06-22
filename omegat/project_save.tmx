@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>A new conformity assessment standard that specifies a&lt;t0/&gt; &lt;t1/&gt;minimum standard for&lt;t2/&gt; &lt;t3/&gt;providing</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T080650Z" creationid="Takashi　Kunai" creationdate="20170607T084803Z">
-        <seg>最小限を定義した適合性評価の基準であり、以下をもたらす；&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T070757Z" creationid="Takashi　Kunai" creationdate="20170607T084803Z">
+        <seg>適合性評価標準は、最小限必須なものを提示；&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>Common Process for Open Source Software Governance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T070336Z" creationid="Takashi　Kunai" creationdate="20170607T083911Z">
-        <seg>オープンソース ソフトウェアのガバナンスのための共通プロセス</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T070554Z" creationid="Takashi　Kunai" creationdate="20170607T083911Z">
+        <seg>オープンソース ソフトウェア ガバナンスのための共通プロセス</seg>
       </tuv>
     </tu>
     <tu>
