@@ -344,8 +344,8 @@
       <tuv lang="EN-US">
         <seg>Licensed as CC-0, so remixing or sharing it freely for any purpose is&lt;t0/&gt; &lt;t1/&gt;possible</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170608T022148Z" creationid="Takashi　Kunai" creationdate="20170608T022148Z">
-        <seg>CC-0 ライセンスで提供、どのような目的にでも自由に作り直したり、共有したりすることが可能</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T072508Z" creationid="Takashi　Kunai" creationdate="20170608T022148Z">
+        <seg>CC-0 ライセンスで提供しており、目的に合わせて修正したり、共有したりすることが可能</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +568,8 @@
       <tuv lang="EN-US">
         <seg>Provides a generic, refined and clear example of an open source compliance training program that can either be used directly or incorporated into&lt;t0/&gt; &lt;t1/&gt;existing training&lt;t2/&gt; &lt;t3/&gt;programs</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T082607Z" creationid="Takashi　Kunai" creationdate="20170608T022012Z">
-        <seg>オープンソース コンプライアンスのトレーニング プログラムとして汎用的で、洗練された、また、明快な事例を提供、そのまま教材として利用、あるいは、既存のトレーニング プログラムの中に組み込むことも可能</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T072415Z" creationid="Takashi　Kunai" creationdate="20170608T022012Z">
+        <seg>オープンソース コンプライアンスのトレーニング プログラムとして一般的で、洗練された、また、明快な事例を提供。それを直接教材として利用、または、既存のトレーニング プログラムの中に組み込んで活用</seg>
       </tuv>
     </tu>
     <tu>
@@ -608,8 +608,8 @@
       <tuv lang="EN-US">
         <seg>Review the OpenChain specification at&lt;t0/&gt; &lt;t1/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T082830Z" creationid="Takashi　Kunai" creationdate="20170608T064032Z">
-        <seg>OpenChain仕様書を読んでみる（日本語訳あり）；&lt;t0/&gt;&lt;t1/&gt;https://www.openchainproject.org/spec</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T072702Z" creationid="Takashi　Kunai" creationdate="20170608T064032Z">
+        <seg>OpenChain仕様書を見てみる（日本語訳あり）；&lt;t0/&gt;&lt;t1/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
     </tu>
     <tu>
@@ -1096,8 +1096,8 @@
       <tuv lang="EN-US">
         <seg>You can learn more about the OpenChain Curriculum here: &lt;t0/&gt;https://www.openchainproject.org/curriculum</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170610T085620Z" creationid="Takashi　Kunai" creationdate="20170605T023200Z">
-        <seg>OpenChainカリキュラムの詳細については、以下のサイトで確認できます。 &lt;t0/&gt;https://www.openchainproject.org/curriculum</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T072531Z" creationid="Takashi　Kunai" creationdate="20170605T023200Z">
+        <seg>OpenChainカリキュラムの詳細については、以下のサイトで確認できる； &lt;t0/&gt;https://www.openchainproject.org/curriculum</seg>
       </tuv>
     </tu>
     <tu>
