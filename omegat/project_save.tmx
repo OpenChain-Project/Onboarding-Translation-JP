@@ -568,8 +568,8 @@
       <tuv lang="EN-US">
         <seg>Receiving company has no visibility into compliance decisions or&lt;t0/&gt; &lt;t1/&gt;processes from upstream&lt;t2/&gt; &lt;t3/&gt;vendors</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T065038Z" creationid="Takashi　Kunai" creationdate="20170607T041517Z">
-        <seg>受領した企業からは、上流企業のコンプライアンス関連の決定事項やプロセスが見えない&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T071620Z" creationid="Takashi　Kunai" creationdate="20170607T041517Z">
+        <seg>受領した企業からは、上流ベンダーのコンプライアンス関連の決定事項やプロセスが見えない&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1040,8 +1040,8 @@
       <tuv lang="EN-US">
         <seg>When code moves downstream, receiving company has to perform the&lt;t0/&gt; &lt;t1/&gt;same work</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T064756Z" creationid="Takashi　Kunai" creationdate="20170607T041202Z">
-        <seg>そのソフトウェアのコードが下流企業に配布されると、それを受領した企業は同じ作業を実施する必要がある&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T071601Z" creationid="Takashi　Kunai" creationdate="20170607T041202Z">
+        <seg>そのソフトウェアのコードが下流ベンダーに配布されると、それを受領した企業は同じ作業を実施する必要がある&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
