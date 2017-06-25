@@ -184,8 +184,8 @@
       <tuv lang="EN-US">
         <seg>Each company is re-creating essentially identical processes for&lt;t0/&gt; &lt;t1/&gt;open source&lt;t2/&gt; &lt;t3/&gt;compliance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T064151Z" creationid="Takashi　Kunai" creationdate="20170607T035715Z">
-        <seg>オープンソース コンプライアンスのために、本質的には同じプロセスを各企業が作って、実行している&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072033Z" creationid="Takashi　Kunai" creationdate="20170607T035715Z">
+        <seg>オープンソース コンプライアンスのために、本質的には同じプロセスを各企業が作成・実行している&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,8 +1000,8 @@
       <tuv lang="EN-US">
         <seg>Upstream compliance work is preserved, available, and reusable for&lt;t0/&gt; &lt;t1/&gt;others</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T065852Z" creationid="Takashi　Kunai" creationdate="20170607T044458Z">
-        <seg>上流企業のコンプライアンス作業の結果を他社が再利用できるように保存・提供&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T071928Z" creationid="Takashi　Kunai" creationdate="20170607T044458Z">
+        <seg>上流ベンダーのコンプライアンス作業の結果を他社が再利用できるように保存・提供&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
