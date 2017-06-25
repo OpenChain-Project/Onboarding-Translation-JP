@@ -680,8 +680,8 @@
       <tuv lang="EN-US">
         <seg>The Online Self-Certification service is available here in the&lt;t0/&gt; &lt;t1/&gt;English language: &lt;t2/&gt;https://www.openchainproject.org/conformance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T074457Z" creationid="Takashi　Kunai" creationdate="20170608T020752Z">
-        <seg>「オンライン自己診断」サービスは、以下のサイトで利用可能（現在のところ英語のみ）&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/conformance</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T074550Z" creationid="Takashi　Kunai" creationdate="20170608T020752Z">
+        <seg>「オンライン自己診断」サービスは、次のサイトで利用可能（現在のところ英語のみ）&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/conformance</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,8 +1088,8 @@
       <tuv lang="EN-US">
         <seg>You can learn more about the OpenChain Curriculum here: &lt;t0/&gt;https://www.openchainproject.org/curriculum</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072839Z" creationid="Takashi　Kunai" creationdate="20170605T023200Z">
-        <seg>OpenChainカリキュラムの詳細については、以下のサイトを参照 &lt;t0/&gt;https://www.openchainproject.org/curriculum</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T074611Z" creationid="Takashi　Kunai" creationdate="20170605T023200Z">
+        <seg>OpenChainカリキュラムの詳細については、次のサイトを参照 &lt;t0/&gt;https://www.openchainproject.org/curriculum</seg>
       </tuv>
     </tu>
     <tu>
