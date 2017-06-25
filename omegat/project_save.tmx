@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>Downstream recipients understand upstream compliance processes,&lt;t0/&gt; &lt;t1/&gt;can reuse compliance&lt;t2/&gt; &lt;t3/&gt;work</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T070913Z" creationid="Takashi　Kunai" creationdate="20170607T045845Z">
-        <seg>下流ベンダーは、上流ベンダーのコンプライアンス プロセスを理解し、それを再利用することが可能&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T083530Z" creationid="Takashi　Kunai" creationdate="20170607T045845Z">
+        <seg>下流は、上流のコンプライアンス プロセスを理解し、それを再利用することが可能&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="EN-US">
         <seg>Receiving company has no visibility into compliance decisions or&lt;t0/&gt; &lt;t1/&gt;processes from upstream&lt;t2/&gt; &lt;t3/&gt;vendors</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T071620Z" creationid="Takashi　Kunai" creationdate="20170607T041517Z">
-        <seg>受領した企業からは、上流ベンダーのコンプライアンス関連の決定事項やプロセスが見えない&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T083351Z" creationid="Takashi　Kunai" creationdate="20170607T041517Z">
+        <seg>受領した企業からは、上流のコンプライアンス関連の決定事項やプロセスが見えない&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,8 +1008,8 @@
       <tuv lang="EN-US">
         <seg>Upstream compliance work is preserved, available, and reusable for&lt;t0/&gt; &lt;t1/&gt;others</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T071928Z" creationid="Takashi　Kunai" creationdate="20170607T044458Z">
-        <seg>上流ベンダーのコンプライアンス作業の結果を他社が再利用できるように保存・提供&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T083459Z" creationid="Takashi　Kunai" creationdate="20170607T044458Z">
+        <seg>サプライチェーンの上流のコンプライアンス作業の結果を他社が再利用できるように保存・提供&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1048,8 +1048,8 @@
       <tuv lang="EN-US">
         <seg>When code moves downstream, receiving company has to perform the&lt;t0/&gt; &lt;t1/&gt;same work</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T071601Z" creationid="Takashi　Kunai" creationdate="20170607T041202Z">
-        <seg>そのソフトウェアのコードが下流ベンダーに配布されると、それを受領した企業は同じ作業を実施する必要がある&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T083338Z" creationid="Takashi　Kunai" creationdate="20170607T041202Z">
+        <seg>そのソフトウェアのコードがサプライチェーンの下流に配布されると、それを受領した企業は同じ作業を実施する必要がある&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
