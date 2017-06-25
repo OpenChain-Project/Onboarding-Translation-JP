@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>Certify conformance with the OpenChain specification&lt;t0/&gt; &lt;t1/&gt;at&lt;t2/&gt; &lt;t3/&gt;https://www.openchainproject.org/conformance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072519Z" creationid="Takashi　Kunai" creationdate="20170608T065320Z">
-        <seg>OpenChain仕様書適合性を検証する。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;https://www.openchainproject.org/conformance</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072724Z" creationid="Takashi　Kunai" creationdate="20170608T065320Z">
+        <seg>OpenChain仕様書適合性を検証する&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;https://www.openchainproject.org/conformance</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>Implement and document processes to meet the spec requirements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170612T084404Z" creationid="Takashi　Kunai" creationdate="20170608T064436Z">
-        <seg>仕様書の要件に合致したプロセスを実装し、文書化する。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072749Z" creationid="Takashi　Kunai" creationdate="20170608T064436Z">
+        <seg>仕様書の要件に合致したプロセスを実装し、文書化する&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +600,8 @@
       <tuv lang="EN-US">
         <seg>Review the OpenChain specification at&lt;t0/&gt; &lt;t1/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072422Z" creationid="Takashi　Kunai" creationdate="20170608T064032Z">
-        <seg>OpenChain仕様書を見てみる（日本語訳あり）。&lt;t0/&gt;&lt;t1/&gt;https://www.openchainproject.org/spec</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072801Z" creationid="Takashi　Kunai" creationdate="20170608T064032Z">
+        <seg>OpenChain仕様書を見てみる（日本語訳あり）&lt;t0/&gt;&lt;t1/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,8 +1008,8 @@
       <tuv lang="EN-US">
         <seg>Use the curriculum slides as an easy starting&lt;t0/&gt; &lt;t1/&gt;point for training -&lt;t2/&gt; &lt;t3/&gt;https://www.openchainproject.org/curriculum</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072450Z" creationid="Takashi　Kunai" creationdate="20170608T064749Z">
-        <seg>トレーニングの出発点として、カリキュラムの教材スライドを利用する。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;https://www.openchainproject.org/curriculum</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072736Z" creationid="Takashi　Kunai" creationdate="20170608T064749Z">
+        <seg>トレーニングの出発点として、カリキュラムの教材スライドを利用する&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;https://www.openchainproject.org/curriculum</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,8 +1088,8 @@
       <tuv lang="EN-US">
         <seg>You can learn more about the OpenChain Curriculum here: &lt;t0/&gt;https://www.openchainproject.org/curriculum</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072247Z" creationid="Takashi　Kunai" creationdate="20170605T023200Z">
-        <seg>OpenChainカリキュラムの詳細については、以下のサイトを参照。 &lt;t0/&gt;https://www.openchainproject.org/curriculum</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072839Z" creationid="Takashi　Kunai" creationdate="20170605T023200Z">
+        <seg>OpenChainカリキュラムの詳細については、以下のサイトを参照 &lt;t0/&gt;https://www.openchainproject.org/curriculum</seg>
       </tuv>
     </tu>
     <tu>
