@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>Implement and document processes to meet the spec requirements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072749Z" creationid="Takashi　Kunai" creationdate="20170608T064436Z">
-        <seg>仕様書の要件に合致したプロセスを実装し、文書化する&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T084533Z" creationid="Takashi　Kunai" creationdate="20170608T064436Z">
+        <seg>仕様書の要件に合致したプロセスを実装し、文書化する。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
