@@ -288,8 +288,8 @@
       <tuv lang="EN-US">
         <seg>Get Involved</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T073124Z" creationid="Takashi　Kunai" creationdate="20170608T070558Z">
-        <seg>OpenChainコミュニティへの参加</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T083913Z" creationid="Takashi　Kunai" creationdate="20170608T070558Z">
+        <seg>OpenChainに参加</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +410,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T080850Z" creationid="Takashi　Kunai" creationdate="20170625T080850Z">
         <seg>オリエンテーション&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Op&lt;t0/&gt;enChain Curriculum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T083747Z" creationid="Takashi　Kunai" creationdate="20170625T083747Z">
+        <seg>OpenChainカリキュラム&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
