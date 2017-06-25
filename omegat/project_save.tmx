@@ -544,8 +544,8 @@
       <tuv lang="EN-US">
         <seg>Organizations certify that they meet the requirements of a&lt;t0/&gt; &lt;t1/&gt;certain version of the OpenChain&lt;t2/&gt; &lt;t3/&gt;Specification</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170622T071642Z" creationid="Takashi　Kunai" creationdate="20170608T015510Z">
-        <seg>組織は、OpenChain仕様書の特定バージョンの要件を満たしていることを検証&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T074301Z" creationid="Takashi　Kunai" creationdate="20170608T015510Z">
+        <seg>組織は、特定バージョンのOpenChain仕様書の要件を満たしていることを検証&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -680,8 +680,8 @@
       <tuv lang="EN-US">
         <seg>The Online Self-Certification service is available here in the&lt;t0/&gt; &lt;t1/&gt;English language: &lt;t2/&gt;https://www.openchainproject.org/conformance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072208Z" creationid="Takashi　Kunai" creationdate="20170608T020752Z">
-        <seg>「オンライン自己診断」サービスは、以下のサイトで利用可能（現在のところ英語のみ）。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/conformance</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T074457Z" creationid="Takashi　Kunai" creationdate="20170608T020752Z">
+        <seg>「オンライン自己診断」サービスは、以下のサイトで利用可能（現在のところ英語のみ）&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/conformance</seg>
       </tuv>
     </tu>
     <tu>
@@ -1104,8 +1104,8 @@
       <tuv lang="EN-US">
         <seg>You can learn more about the OpenChain Specification&lt;t0/&gt; &lt;t1/&gt;here: &lt;t2/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T072143Z" creationid="Takashi　Kunai" creationdate="20170607T090515Z">
-        <seg>OpenChain仕様書の詳細については、以下のサイトを参照。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/spec</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T074528Z" creationid="Takashi　Kunai" creationdate="20170607T090515Z">
+        <seg>OpenChain仕様書の詳細については、次のサイトを参照&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;https://www.openchainproject.org/spec</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
