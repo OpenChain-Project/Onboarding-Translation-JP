@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Onboarding&lt;t0/&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170625T080850Z" creationid="Takashi　Kunai" creationdate="20170625T080850Z">
+        <seg>オリエンテーション&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OpenC&lt;t0/&gt;hain Conformance can be done manually or via a free&lt;t1/&gt; &lt;t2/&gt;Online Self-Certification questionnaire provided by the OpenChain&lt;t3/&gt; &lt;t4/&gt;Project</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170611T021908Z" creationid="Takashi　Kunai" creationdate="20170611T021030Z">
